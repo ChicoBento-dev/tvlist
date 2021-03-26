@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Regionais - globo brasilia">
+    <display-name lang="pt">Regionais - globo brasilia</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Regionais - globominas">
+    <display-name lang="pt">Regionais - globominas</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Regionais - globonordeste">
+    <display-name lang="pt">Regionais - globonordeste</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <programme start="20210326004000 +0000" stop="20210326014500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Danilo garante a Thelma que encontrará sua mãe biológica.(n)</desc>
+  </programme>
+  <programme start="20210326014500 +0000" stop="20210326024000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210326024000 +0000" stop="20210326032500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Arcanjo Renegado</title>
+    <desc lang="pt">Mikhael flagra Sarah e é mantido refém num dos galpões da empresa de Savassi.(n)</desc>
+  </programme>
+  <programme start="20210326032500 +0000" stop="20210326041500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210326041500 +0000" stop="20210326045500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Pedro Bial entrevista a pastora Flordelis.(n)</desc>
+  </programme>
+  <programme start="20210326045500 +0000" stop="20210326070000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Corujão I - Julie E Júlia</title>
+    <title lang="en">Julie &amp; Julia</title>
+    <desc lang="pt">1948. Julia Child é uma americana que passou a morar em Paris devido ao trabalho de seu marido, Paul. Em busca de algo para se ocupar, ela se interessou por culinária e passou a apresentar um programa de TV sobre o assunto. Cinquenta anos depois, Julie Powell está prestes a completar 30 anos e sente-se frustrada com a vida que leva. Em busca de um objetivo, ela resolve passar um ano cozinhando as 524 receitas do livro de Julia Child. Ao longo deste período Julie escreve para um blog, onde relata suas experiências. Globo de Ouro de melhor atriz para Meryl Streep.(n)</desc>
+  </programme>
+  <programme start="20210326070000 +0000" stop="20210326090000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210326090000 +0000" stop="20210326113000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Bom Dia DF</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia DF, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210326113000 +0000" stop="20210326123000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210326123000 +0000" stop="20210326134500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210326134500 +0000" stop="20210326150000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210326150000 +0000" stop="20210326160000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">DF1</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210326160000 +0000" stop="20210326162500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210326162500 +0000" stop="20210326180000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210326180000 +0000" stop="20210326200000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Sessão da Tarde - Arthur - O Milionário Irresistível</title>
+    <title lang="en">Arthur</title>
+    <desc lang="pt">Arthur Bach é um mulherengo rico e irresponsável que sempre contou com os conselhos de Hobson, sua babá de longa data. Agora, para manter sua fortuna, ele precisa escolher entre um casamento arranjado e lutar por Naomi, o seu verdadeiro amor.(n)</desc>
+  </programme>
+  <programme start="20210326200000 +0000" stop="20210326210000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Danilo vai até casa da Alma visitar os gêmeos e os dois acabam se entendendo.(n)</desc>
+  </programme>
+  <programme start="20210326210000 +0000" stop="20210326213000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Pedro consegue um carro de som para falar de seus sentimentos por Karina em alto e bom som!(n)</desc>
+  </programme>
+  <programme start="20210326213000 +0000" stop="20210326221500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Cris pede para fazer uma inseminação artificial e Jonas fica chocado.(n)</desc>
+  </programme>
+  <programme start="20210326221500 +0000" stop="20210326224500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">DF2</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210326224500 +0000" stop="20210326233000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Luna tenta salvar Téo quando o vê sendo levado por enxurrada.(n)</desc>
+  </programme>
+  <programme start="20210326233000 +0000" stop="20210327004000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210327004000 +0000" stop="20210327015000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Filhos estranham ausência de Lurdes e Thelma se fará de sonsa.(n)</desc>
+  </programme>
+  <programme start="20210327015000 +0000" stop="20210327023000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">O DJ, produtor e compositor Dennis vai abrir a noite na casa mais vigiada do Brasil com um show preparado especialmente para os confinados – do BBB e de casa.(n)</desc>
+  </programme>
+  <programme start="20210327023000 +0000" stop="20210327032000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Globo Repórter conta histórias inspiradoras de resiliência, de pessoas que venceram situações difíceis e deram a volta por cima.(n)</desc>
+  </programme>
+  <programme start="20210327032000 +0000" stop="20210327041000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210327041000 +0000" stop="20210327045000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">A supermodelo brasileira fala sobre a vida após os 40, o casamento de 12 anos com o astro da NFL Tom Brady e sobre seu trabalho como ativista ambiental.(n)</desc>
+  </programme>
+  <programme start="20210327045000 +0000" stop="20210327063500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Corujão I - Cães De Guerra</title>
+    <title lang="en">War Dogs</title>
+    <desc lang="pt">David Packouz leva uma vida tranquila em Miami, é casado e vai ter um bebê. Efraim tem um negócio lucrativo e, vendo que David vem passando por dificuldades financeiras, resolve chamar o amigo de infância para trabalhar com ele. Os dois, que na adolescência já foram presos fumando maconha, entram numa nova jornada juntos, descobrindo um enorme mercado de venda de armas.(n)</desc>
+  </programme>
+  <programme start="20210327063500 +0000" stop="20210327073500 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Corujão II - Lar Doce Inferno</title>
+    <title lang="en">Home Sweet Hell</title>
+    <desc lang="pt">Don Champagne (Patrick Wilson) é um homem de negócios bem-sucedido casado com uma mulher bipolar, Mona (Katherine Heigl), que também sofre de transtorno obsessivo compulsivo. O casamento é abalado quando ele começa a conviver com uma atraente colega de trabalho (Jordana Brewster) e o inevitável caso gera consequências inimagináveis.(n)</desc>
+  </programme>
+  <programme start="20210327073500 +0000" stop="20210328093000 +0000" channel="Regionais - globo brasilia">
+    <title lang="pt">Corujão III - Redentor</title>
+    <title lang="en">Redentor</title>
+    <desc lang="pt">Um jornalista aceita ser o laranja de um amigo de infância, que é também um empreiteiro envolvido em um escândalo imobiliário. Após o fracasso do negócio, ele encontra Deus e recebe dele uma missão.(n)</desc>
+  </programme>
+  <programme start="20210326004000 +0000" stop="20210326014500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Danilo garante a Thelma que encontrará sua mãe biológica.(n)</desc>
+  </programme>
+  <programme start="20210326014500 +0000" stop="20210326024000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210326024000 +0000" stop="20210326032500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Arcanjo Renegado</title>
+    <desc lang="pt">Mikhael flagra Sarah e é mantido refém num dos galpões da empresa de Savassi.(n)</desc>
+  </programme>
+  <programme start="20210326032500 +0000" stop="20210326041500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210326041500 +0000" stop="20210326045500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Pedro Bial entrevista a pastora Flordelis.(n)</desc>
+  </programme>
+  <programme start="20210326045500 +0000" stop="20210326070000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Corujão I - Julie E Júlia</title>
+    <title lang="en">Julie &amp; Julia</title>
+    <desc lang="pt">1948. Julia Child é uma americana que passou a morar em Paris devido ao trabalho de seu marido, Paul. Em busca de algo para se ocupar, ela se interessou por culinária e passou a apresentar um programa de TV sobre o assunto. Cinquenta anos depois, Julie Powell está prestes a completar 30 anos e sente-se frustrada com a vida que leva. Em busca de um objetivo, ela resolve passar um ano cozinhando as 524 receitas do livro de Julia Child. Ao longo deste período Julie escreve para um blog, onde relata suas experiências. Globo de Ouro de melhor atriz para Meryl Streep.(n)</desc>
+  </programme>
+  <programme start="20210326070000 +0000" stop="20210326090000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210326090000 +0000" stop="20210326113000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">Liliana Junger apresenta as primeiras noticias da manhã em todo o estado.(n)</desc>
+  </programme>
+  <programme start="20210326113000 +0000" stop="20210326123000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210326123000 +0000" stop="20210326134500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210326134500 +0000" stop="20210326150000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210326150000 +0000" stop="20210326160000 +0000" channel="Regionais - globominas">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Aline Aguiar apresenta as noticias do dia e traz informações de serviço, saúde, cultura e cidadania.(n)</desc>
+  </programme>
+  <programme start="20210326160000 +0000" stop="20210326162500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Maurício Paulucci apresenta as notícias do esporte em Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210326162500 +0000" stop="20210326180000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210326180000 +0000" stop="20210326200000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Sessão da Tarde - Arthur - O Milionário Irresistível</title>
+    <title lang="en">Arthur</title>
+    <desc lang="pt">Arthur Bach é um mulherengo rico e irresponsável que sempre contou com os conselhos de Hobson, sua babá de longa data. Agora, para manter sua fortuna, ele precisa escolher entre um casamento arranjado e lutar por Naomi, o seu verdadeiro amor.(n)</desc>
+  </programme>
+  <programme start="20210326200000 +0000" stop="20210326210000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Danilo vai até casa da Alma visitar os gêmeos e os dois acabam se entendendo.(n)</desc>
+  </programme>
+  <programme start="20210326210000 +0000" stop="20210326213000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Pedro consegue um carro de som para falar de seus sentimentos por Karina em alto e bom som!(n)</desc>
+  </programme>
+  <programme start="20210326213000 +0000" stop="20210326221500 +0000" channel="Regionais - globominas">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Cris pede para fazer uma inseminação artificial e Jonas fica chocado.(n)</desc>
+  </programme>
+  <programme start="20210326221500 +0000" stop="20210326224500 +0000" channel="Regionais - globominas">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Segunda edição do jornal que apresenta as principais notícias de Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210326224500 +0000" stop="20210326233000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Luna tenta salvar Téo quando o vê sendo levado por enxurrada.(n)</desc>
+  </programme>
+  <programme start="20210326233000 +0000" stop="20210327004000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210327004000 +0000" stop="20210327015000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Filhos estranham ausência de Lurdes e Thelma se fará de sonsa.(n)</desc>
+  </programme>
+  <programme start="20210327015000 +0000" stop="20210327023000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">O DJ, produtor e compositor Dennis vai abrir a noite na casa mais vigiada do Brasil com um show preparado especialmente para os confinados – do BBB e de casa.(n)</desc>
+  </programme>
+  <programme start="20210327023000 +0000" stop="20210327032000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Globo Repórter conta histórias inspiradoras de resiliência, de pessoas que venceram situações difíceis e deram a volta por cima.(n)</desc>
+  </programme>
+  <programme start="20210327032000 +0000" stop="20210327041000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210327041000 +0000" stop="20210327045000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">A supermodelo brasileira fala sobre a vida após os 40, o casamento de 12 anos com o astro da NFL Tom Brady e sobre seu trabalho como ativista ambiental.(n)</desc>
+  </programme>
+  <programme start="20210327045000 +0000" stop="20210327063500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Corujão I - Cães De Guerra</title>
+    <title lang="en">War Dogs</title>
+    <desc lang="pt">David Packouz leva uma vida tranquila em Miami, é casado e vai ter um bebê. Efraim tem um negócio lucrativo e, vendo que David vem passando por dificuldades financeiras, resolve chamar o amigo de infância para trabalhar com ele. Os dois, que na adolescência já foram presos fumando maconha, entram numa nova jornada juntos, descobrindo um enorme mercado de venda de armas.(n)</desc>
+  </programme>
+  <programme start="20210327063500 +0000" stop="20210327073500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Corujão II - Lar Doce Inferno</title>
+    <title lang="en">Home Sweet Hell</title>
+    <desc lang="pt">Don Champagne (Patrick Wilson) é um homem de negócios bem-sucedido casado com uma mulher bipolar, Mona (Katherine Heigl), que também sofre de transtorno obsessivo compulsivo. O casamento é abalado quando ele começa a conviver com uma atraente colega de trabalho (Jordana Brewster) e o inevitável caso gera consequências inimagináveis.(n)</desc>
+  </programme>
+  <programme start="20210327073500 +0000" stop="20210327073500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Corujão III - Redentor</title>
+    <title lang="en">Redentor</title>
+    <desc lang="pt">Um jornalista aceita ser o laranja de um amigo de infância, que é também um empreiteiro envolvido em um escândalo imobiliário. Após o fracasso do negócio, ele encontra Deus e recebe dele uma missão.(n)</desc>
+  </programme>
+  <programme start="20210327073500 +0000" stop="20210327085500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Corujão III - Redentor</title>
+    <title lang="en">Redentor</title>
+    <desc lang="pt">Um jornalista aceita ser o laranja de um amigo de infância, que é também um empreiteiro envolvido em um escândalo imobiliário. Após o fracasso do negócio, ele encontra Deus e recebe dele uma missão.(n)</desc>
+  </programme>
+  <programme start="20210327085500 +0000" stop="20210327095000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Como Será?</title>
+    <desc lang="pt">Reportagens sobre cidadania, educação, ecologia, trabalho e inovação, com apresentação de Sandra Annenberg.(n)</desc>
+  </programme>
+  <programme start="20210327095000 +0000" stop="20210327150000 +0000" channel="Regionais - globominas">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Ana Furtado, André Marques, Cissa Guimarães e Patrícia Poeta comandam programa de variedades das manhãs de sábado, ao vivo.(n)</desc>
+  </programme>
+  <programme start="20210327150000 +0000" stop="20210327160000 +0000" channel="Regionais - globominas">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Aline Aguiar apresenta as noticias do dia e traz informações de serviço, saúde, cultura e cidadania.(n)</desc>
+  </programme>
+  <programme start="20210327160000 +0000" stop="20210327162500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Maurício Paulucci apresenta as notícias do esporte em Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210327162500 +0000" stop="20210327171000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210327171000 +0000" stop="20210327174500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Terra de Minas</title>
+    <desc lang="pt">Uma revista cultural exibida nas tardes de sábado. Um mergulho na gastronomia, no turismo, na cultura e na arte de contar histórias de um jeito bem mineiro. Temporada comemorativa de 20 anos do programa.(n)</desc>
+  </programme>
+  <programme start="20210327174500 +0000" stop="20210327181500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Rolê nas Gerais</title>
+    <desc lang="pt">Renata do Carmo e Tábata Poline apresentam o 'Rolê nas Gerais', programa que amplia as vozes, discursos e cultura potentes nas periferias e aglomerados da região metropolitana de Belo Horizonte.(n)</desc>
+  </programme>
+  <programme start="20210327181500 +0000" stop="20210327190500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Se Joga</title>
+    <desc lang="pt">Ana Maria Braga cozinha com Fernanda Gentil, e Murilo Benício relembra ‘Ti Ti Ti'.(n)</desc>
+  </programme>
+  <programme start="20210327190500 +0000" stop="20210327214500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Caldeirão do Huck</title>
+    <desc lang="pt">Onze anos depois da última vez em que esteve no Caldeirão, Xuxa ganha uma surpresa: sua edição do quadro “Visitando o Passado”.(n)</desc>
+  </programme>
+  <programme start="20210327214500 +0000" stop="20210327222500 +0000" channel="Regionais - globominas">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Marcos fica aborrecido com a insistência de Vitória no treino de Sofia.(n)</desc>
+  </programme>
+  <programme start="20210327222500 +0000" stop="20210327225000 +0000" channel="Regionais - globominas">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Segunda edição do jornal que apresenta as principais notícias de Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210327225000 +0000" stop="20210327233000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Salve-se Quem Puder</title>
+    <desc lang="pt">Agora Luna chama-se Fiona, Kyra é Cleyde e Alexia passa a se chamar Josimara.(n)</desc>
+  </programme>
+  <programme start="20210327233000 +0000" stop="20210328002500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210326004000 +0000" stop="20210326014500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Escrita por Manuela Dias e com direção artística de José Luiz Villamarim, 'Amor de Mãe' apresenta as histórias de Lurdes, Thelma e Vitória, três mulheres com diferentes trajetórias que se reconhecem no amor pelos filhos.(n)</desc>
+  </programme>
+  <programme start="20210326014500 +0000" stop="20210326024000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210326024000 +0000" stop="20210326032500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Arcanjo Renegado</title>
+    <desc lang="pt">A obra retrata diferentes ângulos da guerra urbana que acomete o Rio de Janeiro: desde as invasões policiais às comunidades até os bastidores da mais alta esfera política do Estado.(n)</desc>
+  </programme>
+  <programme start="20210326032500 +0000" stop="20210326041500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210326041500 +0000" stop="20210326045500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20210326045500 +0000" stop="20210326070000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Corujão I - Julie e Júlia</title>
+    <title lang="en">Julie &amp; Julia</title>
+    <desc lang="pt">1948. Julia Child é uma americana que passou a morar em Paris devido ao trabalho de seu marido, Paul. Em busca de algo para se ocupar, ela se interessou por culinária e passou a apresentar um programa de TV sobre o assunto. Cinquenta anos depois, Julie Powell está prestes a completar 30 anos e sente-se frustrada com a vida que leva. Em busca de um objetivo, ela resolve passar um ano cozinhando as 524 receitas do livro de Julia Child. Ao longo deste período Julie escreve para um blog, onde relata suas experiências. Globo de Ouro de melhor atriz para Meryl Streep.(n)</desc>
+  </programme>
+  <programme start="20210326070000 +0000" stop="20210326090000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210326090000 +0000" stop="20210326113000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Bom Dia Pernambuco</title>
+    <desc lang="pt">As notícias da manhã ao vivo: este é o Bom Dia Pernambuco. Os repórteres em cidades da Região Metropolitana do Recife, do Agreste e do Sertão trazem as informações que o telespectador precisa para o dia. Além de trânsito e tempo, o telejornal mostra empreendedores, gente que dá emprego, agências que precisam de trabalhadores. Os repórteres estão nas feiras e nos mercados ouvindo o povo e especialistas que dão dicas de como comprar bem e ter uma vida mais saudável. Todos os dias, as notícias do esporte em Pernambuco têm espaço garantido. De segunda a sexta, às 6h.(n)</desc>
+  </programme>
+  <programme start="20210326113000 +0000" stop="20210326123000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210326123000 +0000" stop="20210326134500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210326134500 +0000" stop="20210326150000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210326150000 +0000" stop="20210326160000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">NE1</title>
+    <desc lang="pt">O que aconteceu de mais importante na manhã está no NE1. Um bom tempo do telejornal é dedicado à vida das comunidades: a solução de problemas é cobrada no Calendário, as festas, os eventos e também quem quer ser famoso. No quadro "É Pipoco", novos talentos das comunidades podem mostrar o trabalho. Educação e saúde também fazem parte do conteúdo do telejornal. De segunda a sábado, ao meio-dia.(n)</desc>
+  </programme>
+  <programme start="20210326160000 +0000" stop="20210326162500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O esporte que está no coração dos brasileiros é o motor do Globo Esporte, que traz notícias fresquinhas sobre o desempenho dos times pernambucanos, tanto no campeonato estadual quanto no Brasileirão. O vaivém de atletas, o sobe-e-desce na classificação, as loucuras dos torcedores para demonstrar o amor pelo clube... Tudo interessa à pauta do GE.(n)</desc>
+  </programme>
+  <programme start="20210326162500 +0000" stop="20210326180000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210326180000 +0000" stop="20210326200000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Sessão da Tarde - Arthur - O Milionário Irresistível</title>
+    <title lang="en">Arthur</title>
+    <desc lang="pt">Arthur Bach é um mulherengo rico e irresponsável que sempre contou com os conselhos de Hobson, sua babá de longa data. Agora, para manter sua fortuna, ele precisa escolher entre um casamento arranjado e lutar por Naomi, o seu verdadeiro amor.(n)</desc>
+  </programme>
+  <programme start="20210326200000 +0000" stop="20210326210000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Danilo vai até casa da Alma visitar os gêmeos e os dois acabam se entendendo.(n)</desc>
+  </programme>
+  <programme start="20210326210000 +0000" stop="20210326213000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Pedro consegue um carro de som para se declarar para Karina em alto e bom som!(n)</desc>
+  </programme>
+  <programme start="20210326213000 +0000" stop="20210326221500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Cris pede para fazer uma inseminação artificial e Jonas fica chocado.(n)</desc>
+  </programme>
+  <programme start="20210326221500 +0000" stop="20210326224500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">NE2</title>
+    <desc lang="pt">O NE2 traz o que foi notícia no dia em todo o estado. Economia, política e futebol numa linguagem simples para deixar todos bem informados. Ao vivo, os repórteres mostram os eventos da noite e o telespectador fica sabendo como está a volta para casa de ônibus, de carro ou de metrô. De segunda a sábado, após a Novela I.(n)</desc>
+  </programme>
+  <programme start="20210326224500 +0000" stop="20210326233000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Alexia, Kyra e Luna entram no Programa de Proteção a Testemunhas.(n)</desc>
+  </programme>
+  <programme start="20210326233000 +0000" stop="20210327004000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210327004000 +0000" stop="20210327015000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Álvaro usa Benjamin para ameaçar Davi e interromper seu protesto contra a construção do Condomínio da Floresta.(n)</desc>
+  </programme>
+  <programme start="20210327015000 +0000" stop="20210327023000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210327023000 +0000" stop="20210327032000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Com apresentação de Glória Maria e Sandra Annenberg, o ‘Globo Repórter’ é o jornalístico documental que vai ao ar nas noites de sexta-feira.(n)</desc>
+  </programme>
+  <programme start="20210327032000 +0000" stop="20210327041000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210327041000 +0000" stop="20210327045000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">A supermodelo brasileira fala sobre a vida após os 40, o casamento de 12 anos com o astro da NFL Tom Brady e sobre seu trabalho como ativista ambiental.(n)</desc>
+  </programme>
+  <programme start="20210327045000 +0000" stop="20210327061500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Corujão I - Cães De Guerra</title>
+    <title lang="en">War Dogs</title>
+    <desc lang="pt">David Packouz leva uma vida tranquila em Miami, é casado e vai ter um bebê. Efraim tem um negócio lucrativo e, vendo que David vem passando por dificuldades financeiras, resolve chamar o amigo de infância para trabalhar com ele. Os dois, que na adolescência já foram presos fumando maconha, entram numa nova jornada juntos, descobrindo um enorme mercado de venda de armas.(n)</desc>
+  </programme>
+  <programme start="20210327061500 +0000" stop="20210327073500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Corujão II - Lar Doce Inferno</title>
+    <title lang="en">Home Sweet Hell</title>
+    <desc lang="pt">Don Champagne (Patrick Wilson) é um homem de negócios bem-sucedido casado com uma mulher bipolar, Mona (Katherine Heigl), que também sofre de transtorno obsessivo compulsivo. O casamento é abalado quando ele começa a conviver com uma atraente colega de trabalho (Jordana Brewster) e o inevitável caso gera consequências inimagináveis.(n)</desc>
+  </programme>
+  <programme start="20210327073500 +0000" stop="20210327073500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Corujão III - Redentor</title>
+    <title lang="en">Redentor</title>
+    <desc lang="pt">Um jornalista aceita ser o laranja de um amigo de infância, que é também um empreiteiro envolvido em um escândalo imobiliário. Após o fracasso do negócio, ele encontra Deus e recebe dele uma missão.(n)</desc>
+  </programme>
+  <programme start="20210327073500 +0000" stop="20210327085500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Corujão III - Redentor</title>
+    <title lang="en">Redentor</title>
+    <desc lang="pt">Um jornalista aceita ser o laranja de um amigo de infância, que é também um empreiteiro envolvido em um escândalo imobiliário. Após o fracasso do negócio, ele encontra Deus e recebe dele uma missão.(n)</desc>
+  </programme>
+  <programme start="20210327085500 +0000" stop="20210327095000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Como Será?</title>
+    <desc lang="pt">Reportagens sobre cidadania, educação, ecologia, trabalho e inovação, com apresentação de Sandra Annenberg.(n)</desc>
+  </programme>
+  <programme start="20210327095000 +0000" stop="20210327150000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Ana Furtado, André Marques, Cissa Guimarães e Patrícia Poeta comandam programa de variedades das manhãs de sábado, ao vivo.(n)</desc>
+  </programme>
+  <programme start="20210327150000 +0000" stop="20210327160000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">NE1</title>
+    <desc lang="pt">O que aconteceu de mais importante na manhã está no NE1. Um bom tempo do telejornal é dedicado à vida das comunidades: a solução de problemas é cobrada no Calendário, as festas, os eventos e também quem quer ser famoso. No quadro "É Pipoco", novos talentos das comunidades podem mostrar o trabalho. Educação e saúde também fazem parte do conteúdo do telejornal. De segunda a sábado, ao meio-dia.(n)</desc>
+  </programme>
+  <programme start="20210327160000 +0000" stop="20210327162500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O esporte que está no coração dos brasileiros é o motor do Globo Esporte, que traz notícias fresquinhas sobre o desempenho dos times pernambucanos, tanto no campeonato estadual quanto no Brasileirão. O vaivém de atletas, o sobe-e-desce na classificação, as loucuras dos torcedores para demonstrar o amor pelo clube... Tudo interessa à pauta do GE.(n)</desc>
+  </programme>
+  <programme start="20210327162500 +0000" stop="20210327171000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210327171000 +0000" stop="20210327181500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <desc lang="pt">Toma Lá Dá Cá' tem formato de sitcom e arranca gargalhadas ao trazer situações inusitadas do cotidiano de duas famílias vizinhas, repletas de críticas sociais.(n)</desc>
+  </programme>
+  <programme start="20210327181500 +0000" stop="20210327190500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Se Joga</title>
+    <desc lang="pt">Ana Maria Braga cozinha com Fernanda Gentil, e Murilo Benício relembra ‘Ti Ti Ti'.(n)</desc>
+  </programme>
+  <programme start="20210327190500 +0000" stop="20210327214500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Caldeirão do Huck</title>
+    <desc lang="pt">Onze anos depois da última vez em que esteve no Caldeirão, Xuxa ganha uma surpresa: sua edição do quadro “Visitando o Passado”.(n)</desc>
+  </programme>
+  <programme start="20210327214500 +0000" stop="20210327222500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Marcos fica aborrecido com a insistência de Vitória no treino de Sofia.(n)</desc>
+  </programme>
+  <programme start="20210327222500 +0000" stop="20210327225000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">NE2</title>
+    <desc lang="pt">O NE2 traz o que foi notícia no dia em todo o estado. Economia, política e futebol numa linguagem simples para deixar todos bem informados. Ao vivo, os repórteres mostram os eventos da noite e o telespectador fica sabendo como está a volta para casa de ônibus, de carro ou de metrô. De segunda a sábado, após a Novela I.(n)</desc>
+  </programme>
+  <programme start="20210327225000 +0000" stop="20210327233000 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Salve-se Quem Puder</title>
+    <desc lang="pt">Agora Luna chama-se Fiona, Kyra é Cleyde e Alexia passa a se chamar Josimara.(n)</desc>
+  </programme>
+  <programme start="20210327233000 +0000" stop="20210328002500 +0000" channel="Regionais - globonordeste">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+</tv>

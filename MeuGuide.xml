@@ -1,0 +1,2879 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo Rio">
+    <display-name lang="en">Globo Rio</display-name>
+    <icon src="https://oisa.tmsimg.com/assets/s76937_h3_ba.png" />
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Regionais - globominas">
+    <display-name lang="pt">Regionais - globominas</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Regionais - são paulo">
+    <display-name lang="pt">Regionais - são paulo</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Globo SP HD">
+    <display-name lang="pt">Globo SP HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <programme start="20210404002500 +0000" stop="20210404013000 +0000" channel="Globo Rio">
+    <title lang="en">Amor de Mãe</title>
+    <desc lang="en">Thelma se desespera com a acusação de Camila e ajuda Veiga a fugir; Edilene avisa a Vitória que Robson descobriu seu paradeiro, e Raul se alarma; Érica conversa com Davi, que segue em coma; Álvaro pede que Penha aja contra Lucas e lhe consiga um passaporte falso; Vitória percebe que está sendo seguida; Nicete afirma a Betina que está bem na casa de Verena com Júnior; Thelma culpa Camila por tudo de ruim que aconteceu em sua vida; Carol incentiva Durval a se aproximar de Natália.(n)</desc>
+    <credits>
+      <actor role="Lurdes">Regina Casé</actor>
+      <actor role="Thelma">Adriana Esteves</actor>
+      <actor role="Vitória">Taís Araújo</actor>
+      <actor role="Raul">Murilo Benício</actor>
+      <actor role="Danilo">Chay Suede</actor>
+      <actor role="Davi">Vladimir Brichta</actor>
+      <actor role="Betina">Ísis Valverde</actor>
+      <actor role="Érica">Nanda Costa</actor>
+      <actor role="Lídia">Malu Galli</actor>
+      <actor role="Magno">Juliano Cazarré</actor>
+      <writer>Manuela Dias</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15772886_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E138</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210404013000 +0000" stop="20210404020500 +0000" channel="Globo Rio">
+    <title lang="en">Big Brother Brasil</title>
+    <desc lang="en">Os competidores ficam confinados em uma casa cenográfica, sendo vigiados por câmeras 24 horas por dia, não podendo se comunicar com seus parentes e amigos, ler jornais ou usar de qualquer outro meio para obter informações externas.(n)</desc>
+    <credits>
+      <presenter>Tiago Leifert</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Reality show competitivo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19299490_b_h8_aa.jpg" />
+    <episode-num system="onscreen">E69</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210404020500 +0000" stop="20210404035000 +0000" channel="Globo Rio">
+    <title lang="en">Altas Horas</title>
+    <desc lang="en">Fábio Assunção, Pitty, Vitor Kley, César Galvão, Gustavo Mioto e Dodô participam do programa.(n)</desc>
+    <credits>
+      <presenter>Serginho Groisman</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Bate-papo</category>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289268_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E109</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210404035000 +0000" stop="20210404054500 +0000" channel="Globo Rio">
+    <title lang="en">Missão Madrinha de Casamento</title>
+    <desc lang="en">Lillian vai se casar e convida a amiga Annie para ser sua madrinha. Ela, que enfrenta problemas profissionais e amorosos, resolve se dedicar à função de corpo e alma. Só que, logo no primeiro evento organizado, Annie conhece Helen, uma bela e rica mulher que quer ser a nova melhor amiga de Lillian. As duas passam a disputar a proximidade da noiva, assim como o posto de organizadora do casamento e demais eventos pré-nupciais.(n)</desc>
+    <credits>
+      <actor role="Annie">Kristen Wiig</actor>
+      <actor role="Lillian">Maya Rudolph</actor>
+      <actor role="Helen">Rose Byrne</actor>
+      <actor role="Becca">Ellie Kemper</actor>
+      <actor role="Rita">Wendi McLendon-Covey</actor>
+      <actor role="Megan">Melissa McCarthy</actor>
+      <actor role="Rhodes">Chris O'Dowd</actor>
+      <actor role="Gil">Matt Lucas</actor>
+      <actor role="Annie's Mom">Jill Clayburgh</actor>
+      <actor role="Brynn">Rebel Wilson</actor>
+      <producer>Judd Apatow</producer>
+      <producer>Clayton Townsend</producer>
+      <producer>Barry Mendel</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Comédia</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8414185_v_h10_ad.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210404054500 +0000" stop="20210404074500 +0000" channel="Globo Rio">
+    <title lang="en">Trash - A Esperança Vem do Lixo</title>
+    <desc lang="en">Três garotos, Gardo, Rato e Raphael, vivem em um lixão onde sempre estão buscando algo valioso. Um dia, Raphael encontra uma carteira cheia de dinheiro e divide com o amigo. Porém, a mando de um candidato a prefeito, um policial aparece buscando pela carteira. Começa aí uma verdadeira fuga de policiais e a tentativa de reverter um erro.(n)</desc>
+    <credits>
+      <actor role="Frederico">Selton Mello</actor>
+      <actor role="José Angelo">Wagner Moura</actor>
+      <actor role="Olivia">Rooney Mara</actor>
+      <actor role="Father Julliard">Martin Sheen</actor>
+      <actor role="Raphael">Rickson Tevis</actor>
+      <actor role="Gardo">Eduardo Luís</actor>
+      <actor role="Rato">Gabriel Weinstein</actor>
+      <actor role="Clemente">Nelson Xavier</actor>
+      <actor role="Marco">André Ramiro</actor>
+      <actor role="Turk">Jesuíta Barbosa</actor>
+      <writer>Felipe Braga</writer>
+      <producer>Tim Bevan</producer>
+      <producer>Eric Fellner</producer>
+      <producer>Kris Thykier</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Aventura</category>
+    <category lang="en">Comédia Dramática</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10917798_v_h10_af.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210404074500 +0000" stop="20210404093000 +0000" channel="Globo Rio">
+    <title lang="en">Um Namorado para Minha Mulher</title>
+    <desc lang="en">Cansado das reclamações da mulher, Chico decide terminar o seu casamento. Mas ele não tem coragem, pois Nena, a esposa, é muito brava. Por medo de encará-la, ele tem a brilhante ideia de contratar um amante profissional para conquistá-la.(n)</desc>
+    <credits>
+      <actor role="Nena">Ingrid Guimarães</actor>
+      <actor role="Chico">Caco Ciocler</actor>
+      <actor role="Corvo">Domingos Montagner</actor>
+      <actor role="Graça">Miá Mello</actor>
+      <actor role="Gastão">Paulo Vilhena</actor>
+      <actor role="Veloso">Marcos Veras</actor>
+      <actor role="Mariana">Letícia Colin</actor>
+      <actor role="Raca">Marcelo Laham</actor>
+      <producer>Diane Maia</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Comédia</category>
+    <icon src="https://oisa.tmsimg.com/assets/p13115751_v_h8_am.jpg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210404093000 +0000" stop="20210404103000 +0000" channel="Globo Rio">
+    <title lang="en">Santa Missa</title>
+    <desc lang="en">Celebração dos cristãos católicos propaga a Eucaristia para diversas regiões do país.(n)</desc>
+    <credits>
+      <presenter>Marcelo Rossi</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9350913_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404103000 +0000" stop="20210404110000 +0000" channel="Globo Rio">
+    <title lang="en">Globo Comunidade RJ</title>
+    <desc lang="en">O noticiário traz assuntos de interesse da comunidade, como qualidade de vida e urbanismo.(n)</desc>
+    <credits>
+      <presenter>Susana Naspolini</presenter>
+    </credits>
+    <date>1991</date>
+    <category lang="en">Comunitário</category>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p394065_b_h10_am.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404110000 +0000" stop="20210404113500 +0000" channel="Globo Rio">
+    <title lang="en">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="en">Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.(n)</desc>
+    <credits>
+      <presenter>Lilian Fernandes</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Negócios / Finanças</category>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p462647_b_h8_az.jpg" />
+    <episode-num system="onscreen">E1495</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404113500 +0000" stop="20210404123000 +0000" channel="Globo Rio">
+    <title lang="en">Globo Rural</title>
+    <desc lang="en">Conheça o universo do campo com notícias que interessam ao agricultor, como previsão do tempo, eventos sobre agropecuária, receitas e dicas.(n)</desc>
+    <credits>
+      <presenter>Cristina Vieira</presenter>
+      <presenter>Vico Iasi</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Agricultura</category>
+    <category lang="en">Assuntos Públicos</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289308_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E109</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404123000 +0000" stop="20210404130000 +0000" channel="Globo Rio">
+    <title lang="en">AutoEsporte</title>
+    <desc lang="en">A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Auto</category>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289358_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E111</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404130000 +0000" stop="20210404153000 +0000" channel="Globo Rio">
+    <title lang="en">Esporte Espetacular</title>
+    <desc lang="en">O quadro Duplas Especulares relembra a parceria dos laterais do penta Cafu e Roberto Carlos.(n)</desc>
+    <credits>
+      <producer>Ueliton Silva</producer>
+      <producer>Cauê Dias</producer>
+      <producer>Rafael Freitas</producer>
+      <producer>Marcelo Pizzi</producer>
+      <producer>Monika Leitão</producer>
+      <producer>Sergio Goulart</producer>
+      <producer>Marcelo Outeiral</producer>
+      <producer>Paloma Fukusig</producer>
+      <producer>Marcela Zoia</producer>
+      <presenter>Bárbara Coelho</presenter>
+      <presenter>Lucas Gutierrez</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289364_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E113</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404153000 +0000" stop="20210404171000 +0000" channel="Globo Rio">
+    <title lang="en">Pedro Coelho</title>
+    <desc lang="en">Pedro Coelho é um animal rebelde que apronta todas no quintal e até dentro da casa do Mr. McGregor, com quem trava uma dura batalha pelo carinho e atenção da amante de animais Bea.(n)</desc>
+    <credits>
+      <actor role="Mr. Jeremy Fisher/Mr. Thomas McGregor">Domhnall Gleeson</actor>
+      <actor role="Old Mr. McGregor/Tommy Brock">Sam Neill</actor>
+      <actor role="Bea/Jemima Puddle-Duck">Rose Byrne</actor>
+      <actor role="Harrods Worker -- Janelle">Natalie Dew</actor>
+      <actor role="Harrods Worker -- Siobhan">Terenia Edwards</actor>
+      <actor role="General Manager">Marianne Jean Baptiste</actor>
+      <actor role="Bannerman">Gareth Davies</actor>
+      <actor role="Harrods Security">Vauxhall Jermaine</actor>
+      <actor role="Harrods Security">Tom Greaves</actor>
+      <actor role="Postman">Sam Haft</actor>
+      <producer>Will Gluck</producer>
+      <producer>Zareh Nalbandian</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Animação</category>
+    <category lang="en">Aventura</category>
+    <icon src="https://oisa.tmsimg.com/assets/p14436043_v_h8_ac.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404171000 +0000" stop="20210404185000 +0000" channel="Globo Rio">
+    <title lang="en">The Voice+</title>
+    <desc lang="en">Acompanhe a disputa da grande final.(n)</desc>
+    <credits>
+      <presenter>André Marques</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Música</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19293539_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404185000 +0000" stop="20210404210500 +0000" channel="Globo Rio">
+    <title lang="en">Jurassic World - O Mundo dos Dinossauros</title>
+    <desc lang="en">O Parque dos Dinossauros está aberto para visitação, e o público tem a chance de ver de perto as mais diversas espécies. Porém, um desses animais, resultado de experiência genética, desenvolve alta inteligência e se torna uma ameaça para todos.(n)</desc>
+    <credits>
+      <actor role="Owen">Chris Pratt</actor>
+      <actor role="Claire">Bryce Dallas Howard</actor>
+      <actor role="Masrani">Irrfan Khan</actor>
+      <actor role="Hoskins">Vincent D'Onofrio</actor>
+      <actor role="Gray">Ty Simpkins</actor>
+      <actor role="Zach">Nick Robinson</actor>
+      <actor role="Lowery">Jake Johnson</actor>
+      <actor role="Barry">Omar Sy</actor>
+      <actor role="Dr. Henry Wu">B.D. Wong</actor>
+      <actor role="Karen">Judy Greer</actor>
+      <producer>Frank Marshall</producer>
+      <producer>Patrick Crowley</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Aventura</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10815284_v_h8_ad.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210404210500 +0000" stop="20210404222000 +0000" channel="Globo Rio">
+    <title lang="en">Domingão do Faustão</title>
+    <desc lang="en">Todo final de semana, Fausto Silva oferece o melhor do entretenimento, com quadros animados e curiosos, muita música, novos talentos e a presença marcante de famosos.(n)</desc>
+    <credits>
+      <presenter>Faustão</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Entrevista</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289379_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E139</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404222000 +0000" stop="20210404224500 +0000" channel="Globo Rio">
+    <title lang="en">RJ2</title>
+    <desc lang="en">O telejornal mostra os acontecimentos do dia a dia, explora os debates entre a população e as autoridades. Promove campanhas e discussões, cobrando soluções para melhorar o cotidiano do Rio de Janeiro.(n)</desc>
+    <date>1983</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p16343279_b_h10_aa.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210404224500 +0000" stop="20210404233000 +0000" channel="Globo Rio">
+    <title lang="en">Salve-se Quem Puder</title>
+    <desc lang="en">Luna/Fiona, Alexia/Josimara e Kyra/Cleyde conseguem embarcar no ônibus para São Paulo; Dionice desconfia de que Bia se encantou por Tarantino; Tarantino critica Alan sobre sua atuação como pai; Zezinho impede Luna/Fiona, Alexia/Josimara e Kyra/Cleyde de seguir viagem; Mário diz a Juan que voltará a andar pela filha; Gabi não esconde o interesse em Juan; Ermelinda e Zezinho descobrem a verdadeira identidade de Alexia/Josimara, Luna/Fiona e Kyra/Cleyde e do assassinato que elas testemunharam.(n)</desc>
+    <credits>
+      <actor role="Alexia/Josimara">Deborah Secco</actor>
+      <actor role="Luna/Fiona">Juliana Paiva</actor>
+      <actor role="Kyra/Cleyde">Vitória Strada</actor>
+      <actor role="Helena">Flávia Alessandra</actor>
+      <actor role="Renzo">Rafael Cardoso</actor>
+      <actor role="Juan">José Condessa</actor>
+      <actor role="Rafael">Bruno Ferrari</actor>
+      <actor role="Vitório">Ailton Graça</actor>
+      <actor role="Mário">Murilo Rosa</actor>
+      <actor role="Úrsula">Aline Dias</actor>
+      <writer>Daniel Ortiz</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Comédia Romântica</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p17883334_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E12/17</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210404233000 +0000" stop="20210405002500 +0000" channel="Globo Rio">
+    <title lang="en">Jornal Nacional</title>
+    <desc lang="en">Acompanhe as principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19271835_b_h11_aa.jpg" />
+    <episode-num system="onscreen">E660</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210405002500 +0000" stop="20210405013000 +0000" channel="Globo Rio">
+    <title lang="en">Amor de Mãe</title>
+    <desc lang="en">Thelma se desespera com a acusação de Camila e ajuda Veiga a fugir; Edilene avisa a Vitória que Robson descobriu seu paradeiro, e Raul se alarma; Érica conversa com Davi, que segue em coma; Álvaro pede que Penha aja contra Lucas e lhe consiga um passaporte falso; Vitória percebe que está sendo seguida; Nicete afirma a Betina que está bem na casa de Verena com Júnior; Thelma culpa Camila por tudo de ruim que aconteceu em sua vida; Carol incentiva Durval a se aproximar de Natália.(n)</desc>
+    <credits>
+      <actor role="Lurdes">Regina Casé</actor>
+      <actor role="Thelma">Adriana Esteves</actor>
+      <actor role="Vitória">Taís Araújo</actor>
+      <actor role="Raul">Murilo Benício</actor>
+      <actor role="Danilo">Chay Suede</actor>
+      <actor role="Davi">Vladimir Brichta</actor>
+      <actor role="Betina">Ísis Valverde</actor>
+      <actor role="Érica">Nanda Costa</actor>
+      <actor role="Lídia">Malu Galli</actor>
+      <actor role="Magno">Juliano Cazarré</actor>
+      <writer>Manuela Dias</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Novela</category>
+    <icon src="https://oisa.tmsimg.com/assets/p15772886_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E138</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210405013000 +0000" stop="20210405020500 +0000" channel="Globo Rio">
+    <title lang="en">Big Brother Brasil</title>
+    <desc lang="en">Os competidores ficam confinados em uma casa cenográfica, sendo vigiados por câmeras 24 horas por dia, não podendo se comunicar com seus parentes e amigos, ler jornais ou usar de qualquer outro meio para obter informações externas.(n)</desc>
+    <credits>
+      <presenter>Tiago Leifert</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Reality show competitivo</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19299490_b_h8_aa.jpg" />
+    <episode-num system="onscreen">E69</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210405020500 +0000" stop="20210405035000 +0000" channel="Globo Rio">
+    <title lang="en">Altas Horas</title>
+    <desc lang="en">Fábio Assunção, Pitty, Vitor Kley, César Galvão, Gustavo Mioto e Dodô participam do programa.(n)</desc>
+    <credits>
+      <presenter>Serginho Groisman</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Bate-papo</category>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289268_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E109</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210405035000 +0000" stop="20210405054500 +0000" channel="Globo Rio">
+    <title lang="en">Missão Madrinha de Casamento</title>
+    <desc lang="en">Lillian vai se casar e convida a amiga Annie para ser sua madrinha. Ela, que enfrenta problemas profissionais e amorosos, resolve se dedicar à função de corpo e alma. Só que, logo no primeiro evento organizado, Annie conhece Helen, uma bela e rica mulher que quer ser a nova melhor amiga de Lillian. As duas passam a disputar a proximidade da noiva, assim como o posto de organizadora do casamento e demais eventos pré-nupciais.(n)</desc>
+    <credits>
+      <actor role="Annie">Kristen Wiig</actor>
+      <actor role="Lillian">Maya Rudolph</actor>
+      <actor role="Helen">Rose Byrne</actor>
+      <actor role="Becca">Ellie Kemper</actor>
+      <actor role="Rita">Wendi McLendon-Covey</actor>
+      <actor role="Megan">Melissa McCarthy</actor>
+      <actor role="Rhodes">Chris O'Dowd</actor>
+      <actor role="Gil">Matt Lucas</actor>
+      <actor role="Annie's Mom">Jill Clayburgh</actor>
+      <actor role="Brynn">Rebel Wilson</actor>
+      <producer>Judd Apatow</producer>
+      <producer>Clayton Townsend</producer>
+      <producer>Barry Mendel</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Comédia</category>
+    <icon src="https://oisa.tmsimg.com/assets/p8414185_v_h10_ad.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210405054500 +0000" stop="20210405074500 +0000" channel="Globo Rio">
+    <title lang="en">Trash - A Esperança Vem do Lixo</title>
+    <desc lang="en">Três garotos, Gardo, Rato e Raphael, vivem em um lixão onde sempre estão buscando algo valioso. Um dia, Raphael encontra uma carteira cheia de dinheiro e divide com o amigo. Porém, a mando de um candidato a prefeito, um policial aparece buscando pela carteira. Começa aí uma verdadeira fuga de policiais e a tentativa de reverter um erro.(n)</desc>
+    <credits>
+      <actor role="Frederico">Selton Mello</actor>
+      <actor role="José Angelo">Wagner Moura</actor>
+      <actor role="Olivia">Rooney Mara</actor>
+      <actor role="Father Julliard">Martin Sheen</actor>
+      <actor role="Raphael">Rickson Tevis</actor>
+      <actor role="Gardo">Eduardo Luís</actor>
+      <actor role="Rato">Gabriel Weinstein</actor>
+      <actor role="Clemente">Nelson Xavier</actor>
+      <actor role="Marco">André Ramiro</actor>
+      <actor role="Turk">Jesuíta Barbosa</actor>
+      <writer>Felipe Braga</writer>
+      <producer>Tim Bevan</producer>
+      <producer>Eric Fellner</producer>
+      <producer>Kris Thykier</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Aventura</category>
+    <category lang="en">Comédia Dramática</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10917798_v_h10_af.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210405074500 +0000" stop="20210405093000 +0000" channel="Globo Rio">
+    <title lang="en">Um Namorado para Minha Mulher</title>
+    <desc lang="en">Cansado das reclamações da mulher, Chico decide terminar o seu casamento. Mas ele não tem coragem, pois Nena, a esposa, é muito brava. Por medo de encará-la, ele tem a brilhante ideia de contratar um amante profissional para conquistá-la.(n)</desc>
+    <credits>
+      <actor role="Nena">Ingrid Guimarães</actor>
+      <actor role="Chico">Caco Ciocler</actor>
+      <actor role="Corvo">Domingos Montagner</actor>
+      <actor role="Graça">Miá Mello</actor>
+      <actor role="Gastão">Paulo Vilhena</actor>
+      <actor role="Veloso">Marcos Veras</actor>
+      <actor role="Mariana">Letícia Colin</actor>
+      <actor role="Raca">Marcelo Laham</actor>
+      <producer>Diane Maia</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Comédia</category>
+    <icon src="https://oisa.tmsimg.com/assets/p13115751_v_h8_am.jpg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210405093000 +0000" stop="20210405103000 +0000" channel="Globo Rio">
+    <title lang="en">Santa Missa</title>
+    <desc lang="en">Celebração dos cristãos católicos propaga a Eucaristia para diversas regiões do país.(n)</desc>
+    <credits>
+      <presenter>Marcelo Rossi</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Religião</category>
+    <icon src="https://oisa.tmsimg.com/assets/p9350913_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210405103000 +0000" stop="20210405110000 +0000" channel="Globo Rio">
+    <title lang="en">Globo Comunidade RJ</title>
+    <desc lang="en">O noticiário traz assuntos de interesse da comunidade, como qualidade de vida e urbanismo.(n)</desc>
+    <credits>
+      <presenter>Susana Naspolini</presenter>
+    </credits>
+    <date>1991</date>
+    <category lang="en">Comunitário</category>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p394065_b_h10_am.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210405110000 +0000" stop="20210405113500 +0000" channel="Globo Rio">
+    <title lang="en">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="en">Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.(n)</desc>
+    <credits>
+      <presenter>Lilian Fernandes</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Negócios / Finanças</category>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p462647_b_h8_az.jpg" />
+    <episode-num system="onscreen">E1495</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210405113500 +0000" stop="20210405123000 +0000" channel="Globo Rio">
+    <title lang="en">Globo Rural</title>
+    <desc lang="en">Conheça o universo do campo com notícias que interessam ao agricultor, como previsão do tempo, eventos sobre agropecuária, receitas e dicas.(n)</desc>
+    <credits>
+      <presenter>Cristina Vieira</presenter>
+      <presenter>Vico Iasi</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Agricultura</category>
+    <category lang="en">Assuntos Públicos</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289308_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E109</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210405123000 +0000" stop="20210405130000 +0000" channel="Globo Rio">
+    <title lang="en">AutoEsporte</title>
+    <desc lang="en">A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Auto</category>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289358_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E111</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210405130000 +0000" stop="20210405153000 +0000" channel="Globo Rio">
+    <title lang="en">Esporte Espetacular</title>
+    <desc lang="en">O quadro Duplas Especulares relembra a parceria dos laterais do penta Cafu e Roberto Carlos.(n)</desc>
+    <credits>
+      <producer>Ueliton Silva</producer>
+      <producer>Cauê Dias</producer>
+      <producer>Rafael Freitas</producer>
+      <producer>Marcelo Pizzi</producer>
+      <producer>Monika Leitão</producer>
+      <producer>Sergio Goulart</producer>
+      <producer>Marcelo Outeiral</producer>
+      <producer>Paloma Fukusig</producer>
+      <producer>Marcela Zoia</producer>
+      <presenter>Bárbara Coelho</presenter>
+      <presenter>Lucas Gutierrez</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289364_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E113</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210405153000 +0000" stop="20210405171000 +0000" channel="Globo Rio">
+    <title lang="en">Pedro Coelho</title>
+    <desc lang="en">Pedro Coelho é um animal rebelde que apronta todas no quintal e até dentro da casa do Mr. McGregor, com quem trava uma dura batalha pelo carinho e atenção da amante de animais Bea.(n)</desc>
+    <credits>
+      <actor role="Mr. Jeremy Fisher/Mr. Thomas McGregor">Domhnall Gleeson</actor>
+      <actor role="Old Mr. McGregor/Tommy Brock">Sam Neill</actor>
+      <actor role="Bea/Jemima Puddle-Duck">Rose Byrne</actor>
+      <actor role="Harrods Worker -- Janelle">Natalie Dew</actor>
+      <actor role="Harrods Worker -- Siobhan">Terenia Edwards</actor>
+      <actor role="General Manager">Marianne Jean Baptiste</actor>
+      <actor role="Bannerman">Gareth Davies</actor>
+      <actor role="Harrods Security">Vauxhall Jermaine</actor>
+      <actor role="Harrods Security">Tom Greaves</actor>
+      <actor role="Postman">Sam Haft</actor>
+      <producer>Will Gluck</producer>
+      <producer>Zareh Nalbandian</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Animação</category>
+    <category lang="en">Aventura</category>
+    <icon src="https://oisa.tmsimg.com/assets/p14436043_v_h8_ac.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210405171000 +0000" stop="20210405185000 +0000" channel="Globo Rio">
+    <title lang="en">The Voice+</title>
+    <desc lang="en">Acompanhe a disputa da grande final.(n)</desc>
+    <credits>
+      <presenter>André Marques</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Música</category>
+    <category lang="en">Reality</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19293539_b_h10_ac.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210405185000 +0000" stop="20210405210500 +0000" channel="Globo Rio">
+    <title lang="en">Jurassic World - O Mundo dos Dinossauros</title>
+    <desc lang="en">O Parque dos Dinossauros está aberto para visitação, e o público tem a chance de ver de perto as mais diversas espécies. Porém, um desses animais, resultado de experiência genética, desenvolve alta inteligência e se torna uma ameaça para todos.(n)</desc>
+    <credits>
+      <actor role="Owen">Chris Pratt</actor>
+      <actor role="Claire">Bryce Dallas Howard</actor>
+      <actor role="Masrani">Irrfan Khan</actor>
+      <actor role="Hoskins">Vincent D'Onofrio</actor>
+      <actor role="Gray">Ty Simpkins</actor>
+      <actor role="Zach">Nick Robinson</actor>
+      <actor role="Lowery">Jake Johnson</actor>
+      <actor role="Barry">Omar Sy</actor>
+      <actor role="Dr. Henry Wu">B.D. Wong</actor>
+      <actor role="Karen">Judy Greer</actor>
+      <producer>Frank Marshall</producer>
+      <producer>Patrick Crowley</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Aventura</category>
+    <icon src="https://oisa.tmsimg.com/assets/p10815284_v_h8_ad.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20210405210500 +0000" stop="20210405230000 +0000" channel="Globo Rio">
+    <title lang="en">Domingão do Faustão</title>
+    <desc lang="en">Todo final de semana, Fausto Silva oferece o melhor do entretenimento, com quadros animados e curiosos, muita música, novos talentos e a presença marcante de famosos.(n)</desc>
+    <credits>
+      <presenter>Faustão</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Entretenimento</category>
+    <category lang="en">Entrevista</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289379_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E139</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210405230000 +0000" stop="20210406014000 +0000" channel="Globo Rio">
+    <title lang="en">Fantástico</title>
+    <desc lang="en">Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.(n)</desc>
+    <credits>
+      <presenter>Tadeu Schmidt</presenter>
+      <presenter>Poliana Abritta</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Revista de Notícias</category>
+    <icon src="https://oisa.tmsimg.com/assets/p19289390_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E111</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20210404002500 +0000" stop="20210404013000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Paula quer agradecer a Thelma pelos 20 mil reais, mas quem atende é Danilo, que não entende nada, e confronta a mãe.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7301.jpg" />
+  </programme>
+  <programme start="20210404013000 +0000" stop="20210404020500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10638.jpg" />
+  </programme>
+  <programme start="20210404020500 +0000" stop="20210404035000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Fábio Assunção, Pitty, Vitor Kley, César Galvão, Gustavo Mioto e Dodô participam do programa deste Sábado.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/8399.png" />
+  </programme>
+  <programme start="20210404035000 +0000" stop="20210404054500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Supercine - Missão Madrinha De Casamento</title>
+    <title lang="en">Bridesmaids</title>
+    <desc lang="pt">Lillian vai se casar e convida a amiga Annie para ser sua madrinha. Ela, que enfrenta problemas profissionais e amorosos, resolve se dedicar à função de corpo e alma. Só que, logo no primeiro evento organizado, Annie conhece Helen, uma bela e rica mulher que quer ser a nova melhor amiga de Lillian. As duas logo passam a disputar a proximidade da noiva, assim como o posto de organizadora do casamento e demais eventos pré-nupciais.(n)</desc>
+    <credits>
+      <director>Paul Feig</director>
+      <actor>Rose Byrne</actor>
+      <actor>Melissa Mccarthy</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Kristen Wiig</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/54.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20210404054500 +0000" stop="20210404074500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Corujão I - Trash - A Esperança Vem Do Lixo</title>
+    <title lang="en">Trash</title>
+    <desc lang="pt">Rio de Janeiro, Brasil. Gardo e Raphael são garotos que vivem em um lixão e sempre buscam algo valioso entre os restos despejados no local todo dia. Um dia, Raphael encontra uma carteira com uma boa quantia em dinheiro e a divide com o amigo. Entretanto, logo surge o policial Frederico, que está justamente procurando a tal carteira a mando de um candidato a prefeito, Santos. Os garotos não revelam que a encontraram e pedem ajuda a Rato, também morador do lixão, para que possam descobrir o que ela tem de tão importante. É quando percebem que, através de uma chave, embarcarão em uma verdadeira caça ao tesouro.(n)</desc>
+    <credits>
+      <director>Stephen Daldry</director>
+      <actor>Rickson Tevez</actor>
+      <actor>Eduardo Luis</actor>
+      <actor>Gabriel Weinstein</actor>
+      <actor>Rooney Mara</actor>
+      <actor>Wagner Moura</actor>
+      <actor>Selton Mello</actor>
+      <actor>Andre Ramiro</actor>
+      <actor>Martin Sheen</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Brasileira</country>
+  </programme>
+  <programme start="20210404074500 +0000" stop="20210404093000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Corujão II - Um Namorado Para Minha Mulher</title>
+    <title lang="en">Um Namorado Para Minha Mulher</title>
+    <desc lang="pt">Chico está cansado do seu relacionamento e das reclamações da esposa, Nena. Após 15 anos vivendo juntos, ele não tem coragem de pedir divórcio, mas decide seguir o conselho dos amigos e contrata um amante para sua esposa, o sedutor Corvo, na esperança de que ela se envolva com ele e acabe com o casamento.(n)</desc>
+    <credits>
+      <director>Julia Rezende</director>
+      <actor>Caco Ciocler</actor>
+      <actor>Ingrid Guimaraes</actor>
+      <actor>Domingos Montagner</actor>
+      <actor>Paulo Vilhena</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Brasileira</country>
+  </programme>
+  <programme start="20210404093000 +0000" stop="20210404103000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo, a Santa Missa foi transmitida pela primeira vez em fevereiro de 1968.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/55.jpg" />
+  </programme>
+  <programme start="20210404103000 +0000" stop="20210404110000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Tô Indo</title>
+    <desc lang="pt">Mário Freitas viaja por Minas Gerais mostrando personagens curiosos, gente simples, lendas, muita prosa e entretenimento.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6533.jpg" />
+  </programme>
+  <programme start="20210404110000 +0000" stop="20210404113500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/57.jpg" />
+  </programme>
+  <programme start="20210404113500 +0000" stop="20210404123000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5309.png" />
+  </programme>
+  <programme start="20210404123000 +0000" stop="20210404130000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">As principais notícias sobre o universo dos automóveis.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/59.jpg" />
+  </programme>
+  <programme start="20210404130000 +0000" stop="20210404153000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">Quadro “Duplas Especulares” relembra a parceria dos laterais do penta Cafu e Roberto Carlos.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4164.jpg" />
+  </programme>
+  <programme start="20210404153000 +0000" stop="20210404171000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Temperatura Máxima - Pedro Coelho</title>
+    <title lang="en">Peter Rabbit</title>
+    <desc lang="pt">Pedro Coelho apronta todas no campo onde mora. Sua principal diversão é pregar peças em Thomas McGregor, que não gosta de animais. Para completar, eles disputam a atenção da doce vizinha Bea.(n)</desc>
+    <credits>
+      <director>Will Gluck</director>
+      <actor>Daisy Ridley</actor>
+      <actor>Domhnall Gleeson</actor>
+      <actor>James Corden</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Sam Neill</actor>
+      <actor>Sia</actor>
+    </credits>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/63.jpg" />
+    <country lang="pt">Austrália</country>
+  </programme>
+  <programme start="20210404171000 +0000" stop="20210404185000 +0000" channel="Regionais - globominas">
+    <title lang="pt">The Voice Mais</title>
+    <desc lang="pt">A grande final do The Voice+ acontece neste Domingo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10597.JPG" />
+  </programme>
+  <programme start="20210404185000 +0000" stop="20210404210500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt">Atlético x América-MG.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/8282.jpg" />
+  </programme>
+  <programme start="20210404210500 +0000" stop="20210404230000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Domingão do Faustão</title>
+    <desc lang="pt">Programa de auditório apresentado por Fausto Silva, que reúne nomes da televisão brasileira, atrações musicais e quadros variados.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/64.jpg" />
+  </programme>
+  <programme start="20210404230000 +0000" stop="20210405014000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Tadeu Schmidt e Poliana Abritta.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1527.jpeg" />
+  </programme>
+  <programme start="20210405014000 +0000" stop="20210405030500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10638.jpg" />
+  </programme>
+  <programme start="20210405030500 +0000" stop="20210405044500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Domingo Maior - O Príncipe</title>
+    <title lang="en">The Prince</title>
+    <desc lang="pt">Um assassino aposentado deve voltar à ativa e confrontar um antigo inimigo quando a sua filha é sequestrada.(n)</desc>
+    <credits>
+      <director>Brian A. Miller</director>
+      <actor>Rain</actor>
+      <actor>John Cusack</actor>
+      <actor>Jessica Lowndes</actor>
+      <actor>Jason Patric</actor>
+      <actor>Johnathon Schaech</actor>
+      <actor>Bruce Willis</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/66.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20210405044500 +0000" stop="20210405070000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Cinemaço - Mar em Fúria</title>
+    <title lang="en">The Perfect Storm</title>
+    <desc lang="pt">Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as forças da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando são confrontados pela maior tempestade da história.(n)</desc>
+    <credits>
+      <director>Wolfgang Petersen</director>
+      <actor>Mark Whalberg</actor>
+      <actor>George</actor>
+      <actor>Clooney</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Diane Lane</actor>
+      <actor>Allen Payne</actor>
+      <actor>William Fichtner</actor>
+    </credits>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5708.jpg" />
+    <country lang="pt">Estados Unidos</country>
+  </programme>
+  <programme start="20210405070000 +0000" stop="20210405090000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg" />
+  </programme>
+  <programme start="20210405090000 +0000" stop="20210405113000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">Liliana Junger apresenta as primeiras noticias da manhã em todo o estado.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2114.png" />
+  </programme>
+  <programme start="20210405113000 +0000" stop="20210405123000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg" />
+  </programme>
+  <programme start="20210405123000 +0000" stop="20210405134500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10807.jpeg" />
+  </programme>
+  <programme start="20210405134500 +0000" stop="20210405150000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg" />
+  </programme>
+  <programme start="20210405150000 +0000" stop="20210405160000 +0000" channel="Regionais - globominas">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Aline Aguiar apresenta as noticias do dia e traz informações de serviço, saúde, cultura e cidadania.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2116.png" />
+  </programme>
+  <programme start="20210405160000 +0000" stop="20210405162500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Maurício Paulucci apresenta as notícias do esporte em Minas Gerais.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg" />
+  </programme>
+  <programme start="20210405162500 +0000" stop="20210405174500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg" />
+  </programme>
+  <programme start="20210405174500 +0000" stop="20210405181000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Plantão BBB</title>
+    <desc lang="pt">Plantão que comenta os acontecimentos mais recentes da casa mais vigiada do Brasil.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11051.jpg" />
+  </programme>
+  <programme start="20210405181000 +0000" stop="20210405194000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Sessão da Tarde - Mãos Talentosas - A História De Ben ...</title>
+    <title lang="en">Gifted Hands</title>
+    <desc lang="pt">Um menino pobre de Detroit, desmotivado, que tirava más notas na escola, aos 33 anos se torna o diretor do centro de neurologia pediátrica do hospital universitário Johns Hopkins. Em 1987, alcancou renome mundial por seu desempenho na bem-sucedida separação de dois gêmeos siameses. Sua história, profundamente humana, descreve o papel vital que a mãe desempenhou na metamorfose do filho.(n)</desc>
+    <credits>
+      <director>Thomas Carter</director>
+      <actor>Cuba Gooding Jr.</actor>
+      <actor>Kimberly Elise</actor>
+      <actor>Aunjanue Ellis</actor>
+      <actor>Gus Hoffman</actor>
+      <actor>Jaishon Fisher</actor>
+      <actor>Tajh Bellow</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20210405194000 +0000" stop="20210405205500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Vale a Pena Ver de Novo - Ti Ti Ti</title>
+    <desc lang="pt">A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho, em São Paulo, e invade as passarelas do glamoroso mundo fashion.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg" />
+  </programme>
+  <programme start="20210405205500 +0000" stop="20210405212500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10640.jpg" />
+  </programme>
+  <programme start="20210405212500 +0000" stop="20210405221000 +0000" channel="Regionais - globominas">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10833.jpg" />
+  </programme>
+  <programme start="20210405221000 +0000" stop="20210405224000 +0000" channel="Regionais - globominas">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Segunda edição do jornal que apresenta as principais notícias de Minas Gerais.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2119.png" />
+  </programme>
+  <programme start="20210405224000 +0000" stop="20210405233000 +0000" channel="Regionais - globominas">
+    <title lang="pt">Salve-se Quem Puder</title>
+    <desc lang="pt">A história três mulheres que testemunham um crime e têm suas vidas completamente transformadas.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7987.jpg" />
+  </programme>
+  <programme start="20210405233000 +0000" stop="20210406002500 +0000" channel="Regionais - globominas">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
+  </programme>
+  <programme start="20210404002500 +0000" stop="20210404013000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Paula quer agradecer a Thelma pelos 20 mil reais, mas quem atende é Danilo, que não entende nada, e confronta a mãe.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7301.jpg" />
+  </programme>
+  <programme start="20210404013000 +0000" stop="20210404020500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10638.jpg" />
+  </programme>
+  <programme start="20210404020500 +0000" stop="20210404035000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Fábio Assunção, Pitty, Vitor Kley, César Galvão, Gustavo Mioto e Dodô participam do programa deste Sábado.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/8399.png" />
+  </programme>
+  <programme start="20210404035000 +0000" stop="20210404054500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Supercine - Missão Madrinha De Casamento</title>
+    <title lang="en">Bridesmaids</title>
+    <desc lang="pt">Lillian vai se casar e convida a amiga Annie para ser sua madrinha. Ela, que enfrenta problemas profissionais e amorosos, resolve se dedicar à função de corpo e alma. Só que, logo no primeiro evento organizado, Annie conhece Helen, uma bela e rica mulher que quer ser a nova melhor amiga de Lillian. As duas logo passam a disputar a proximidade da noiva, assim como o posto de organizadora do casamento e demais eventos pré-nupciais.(n)</desc>
+    <credits>
+      <director>Paul Feig</director>
+      <actor>Rose Byrne</actor>
+      <actor>Melissa Mccarthy</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Kristen Wiig</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/54.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20210404054500 +0000" stop="20210404093000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Corujão I - Trash - A Esperança Vem Do Lixo</title>
+    <title lang="en">Trash</title>
+    <desc lang="pt">Rio de Janeiro, Brasil. Gardo e Raphael são garotos que vivem em um lixão e sempre buscam algo valioso entre os restos despejados no local todo dia. Um dia, Raphael encontra uma carteira com uma boa quantia em dinheiro e a divide com o amigo. Entretanto, logo surge o policial Frederico, que está justamente procurando a tal carteira a mando de um candidato a prefeito, Santos. Os garotos não revelam que a encontraram e pedem ajuda a Rato, também morador do lixão, para que possam descobrir o que ela tem de tão importante. É quando percebem que, através de uma chave, embarcarão em uma verdadeira caça ao tesouro.(n)</desc>
+    <credits>
+      <director>Stephen Daldry</director>
+      <actor>Rickson Tevez</actor>
+      <actor>Eduardo Luis</actor>
+      <actor>Gabriel Weinstein</actor>
+      <actor>Rooney Mara</actor>
+      <actor>Wagner Moura</actor>
+      <actor>Selton Mello</actor>
+      <actor>Andre Ramiro</actor>
+      <actor>Martin Sheen</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Brasileira</country>
+  </programme>
+  <programme start="20210404093000 +0000" stop="20210404103000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo, a Santa Missa foi transmitida pela primeira vez em fevereiro de 1968.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/55.jpg" />
+  </programme>
+  <programme start="20210404103000 +0000" stop="20210404110000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Antena Paulista</title>
+    <desc lang="pt">Programa exibe reportagens, análises e histórias sobre temas relacionados ao estado de São Paulo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1528.jpg" />
+  </programme>
+  <programme start="20210404110000 +0000" stop="20210404113500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/57.jpg" />
+  </programme>
+  <programme start="20210404113500 +0000" stop="20210404123000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5309.png" />
+  </programme>
+  <programme start="20210404123000 +0000" stop="20210404130000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">As principais notícias sobre o universo dos automóveis.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/59.jpg" />
+  </programme>
+  <programme start="20210404130000 +0000" stop="20210404153000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">Quadro “Duplas Especulares” relembra a parceria dos laterais do penta Cafu e Roberto Carlos.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4164.jpg" />
+  </programme>
+  <programme start="20210404153000 +0000" stop="20210404171000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Temperatura Máxima - Pedro Coelho</title>
+    <title lang="en">Peter Rabbit</title>
+    <desc lang="pt">Pedro Coelho apronta todas no campo onde mora. Sua principal diversão é pregar peças em Thomas McGregor, que não gosta de animais. Para completar, eles disputam a atenção da doce vizinha Bea.(n)</desc>
+    <credits>
+      <director>Will Gluck</director>
+      <actor>Daisy Ridley</actor>
+      <actor>Domhnall Gleeson</actor>
+      <actor>James Corden</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Sam Neill</actor>
+      <actor>Sia</actor>
+    </credits>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/63.jpg" />
+    <country lang="pt">Austrália</country>
+  </programme>
+  <programme start="20210404171000 +0000" stop="20210404185000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">The Voice Mais</title>
+    <desc lang="pt">A grande final do The Voice+ acontece neste Domingo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10597.JPG" />
+  </programme>
+  <programme start="20210404185000 +0000" stop="20210404210500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Campeões de Bilheteria - Jurassic World: O Mundo Dos Dinossauros</title>
+    <title lang="en">Jurassic World</title>
+    <desc lang="pt">O Jurassic Park, localizado na ilha Nublar, enfim está aberto ao público. Com isso, as pessoas podem conferir shows acrobáticos com dinossauros e até mesmo fazer passeios bem perto deles, já que agora estão domesticados. Entretanto, a equipe chefiada pela doutora Claire passa a fazer experiências genéticas com estes seres, de forma a criar novas espécies. Uma delas logo adquire inteligência bem mais alta, tornando-se uma grande ameaça para a existência humana.(n)</desc>
+    <credits>
+      <director>Colin Trevorrow</director>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Ty Simpkins</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/8551.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20210404210500 +0000" stop="20210404230000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Domingão do Faustão</title>
+    <desc lang="pt">Programa de auditório apresentado por Fausto Silva, que reúne nomes da televisão brasileira, atrações musicais e quadros variados.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/64.jpg" />
+  </programme>
+  <programme start="20210404230000 +0000" stop="20210405014000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Tadeu Schmidt e Poliana Abritta.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1527.jpeg" />
+  </programme>
+  <programme start="20210405014000 +0000" stop="20210405024000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10638.jpg" />
+  </programme>
+  <programme start="20210405024000 +0000" stop="20210405041000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Domingo Maior - O Príncipe</title>
+    <title lang="en">The Prince</title>
+    <desc lang="pt">Um assassino aposentado deve voltar à ativa e confrontar um antigo inimigo quando a sua filha é sequestrada.(n)</desc>
+    <credits>
+      <director>Brian A. Miller</director>
+      <actor>Rain</actor>
+      <actor>John Cusack</actor>
+      <actor>Jessica Lowndes</actor>
+      <actor>Jason Patric</actor>
+      <actor>Johnathon Schaech</actor>
+      <actor>Bruce Willis</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/66.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20210405041000 +0000" stop="20210405055000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Cinemaço - Mar em Fúria</title>
+    <title lang="en">The Perfect Storm</title>
+    <desc lang="pt">Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as forças da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando são confrontados pela maior tempestade da história.(n)</desc>
+    <credits>
+      <director>Wolfgang Petersen</director>
+      <actor>Mark Whalberg</actor>
+      <actor>George</actor>
+      <actor>Clooney</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Diane Lane</actor>
+      <actor>Allen Payne</actor>
+      <actor>William Fichtner</actor>
+    </credits>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5708.jpg" />
+    <country lang="pt">Estados Unidos</country>
+  </programme>
+  <programme start="20210405055000 +0000" stop="20210405070000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Corujão I - Califórnia</title>
+    <title lang="en">Califórnia</title>
+    <desc lang="pt">O ano é 1984. Estela vive a conturbada passagem pela adolescência. O sexo, os amores, as amizades; tudo parece muito complicado. Seu tio Carlos é seu maior herói, e a viagem à Califórnia para visitá-lo, seu grande sonho. Mas tudo desaba quando ele volta magro, fraco e doente. Entre crises e descobertas, Estela irá encarar uma realidade que mudará, definitivamente, sua forma de ver o mundo.(n)</desc>
+    <credits>
+      <director>Marina Person</director>
+      <actor>Caio Blat</actor>
+      <actor>Virginia Cavendish</actor>
+      <actor>Giovanni Gallo</actor>
+      <actor>Clara Gallo</actor>
+      <actor>Livia Gijon</actor>
+      <actor>Paulo Miklos</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Brasileira</country>
+  </programme>
+  <programme start="20210405070000 +0000" stop="20210405090000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg" />
+  </programme>
+  <programme start="20210405090000 +0000" stop="20210405113000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/606.jpg" />
+  </programme>
+  <programme start="20210405113000 +0000" stop="20210405123000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg" />
+  </programme>
+  <programme start="20210405123000 +0000" stop="20210405134500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10807.jpeg" />
+  </programme>
+  <programme start="20210405134500 +0000" stop="20210405150000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg" />
+  </programme>
+  <programme start="20210405150000 +0000" stop="20210405160000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/609.jpg" />
+  </programme>
+  <programme start="20210405160000 +0000" stop="20210405162500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg" />
+  </programme>
+  <programme start="20210405162500 +0000" stop="20210405174500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg" />
+  </programme>
+  <programme start="20210405174500 +0000" stop="20210405181000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Plantão BBB</title>
+    <desc lang="pt">Plantão que comenta os acontecimentos mais recentes da casa mais vigiada do Brasil.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11051.jpg" />
+  </programme>
+  <programme start="20210405181000 +0000" stop="20210405194000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Sessão da Tarde - Vovó... Zona 2</title>
+    <title lang="en">Big Momma's House 2</title>
+    <desc lang="pt">Após prender famoso ladrão de bancos, detetive do FBI precisa mais uma vez se disfarçar como uma senhora idosa. Desta vez, ele tem que encontrar o suspeito de espalhar um vírus de computador que pode dar aos inimigos do governo acesso a arquivos confidenciais. Ele se disfarça para trabalhar como babá na casa do criador do vírus. Além do caso, ainda tem que lidar com os problemas da família.(n)</desc>
+    <credits>
+      <director>John Whitesell</director>
+      <actor>Martin Lawrence</actor>
+      <actor>Elton Leblanc</actor>
+      <actor>Emily Procter</actor>
+      <actor>Zachary Levin</actor>
+      <actor>Mark Moses</actor>
+      <actor>Nia Long</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20210405194000 +0000" stop="20210405205500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Vale a Pena Ver de Novo - Ti Ti Ti</title>
+    <desc lang="pt">Suzana consegue um trabalho para Ari com diretor Jorge Fernando.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg" />
+  </programme>
+  <programme start="20210405205500 +0000" stop="20210405212500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Karina fica furiosa por Pedro ter passado mal na roda-gigante.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10640.jpg" />
+  </programme>
+  <programme start="20210405212500 +0000" stop="20210405221000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Jonas propõe que Lourenço seja o doador para a fertilização de Cris.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10833.jpg" />
+  </programme>
+  <programme start="20210405221000 +0000" stop="20210405224000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3841.jpg" />
+  </programme>
+  <programme start="20210405224000 +0000" stop="20210405233000 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Salve-se Quem Puder</title>
+    <desc lang="pt">Luna/Fiona aproveita a distração do segurança e entra no Empório Delícia.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7987.jpg" />
+  </programme>
+  <programme start="20210405233000 +0000" stop="20210406002500 +0000" channel="Regionais - são paulo">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png" />
+  </programme>
+  <programme start="20210404024500 +0000" stop="20210404030000 +0000" channel="Globo SP HD">
+    <title lang="pt">Noddy no País dos Brinquedos</title>
+    <desc lang="pt">A segunda temporada das aventuras do pequeno menino feito de madeira que vive em Toyland.(n)</desc>
+    <credits>
+      <director>Albert Pereira-Lazaro</director>
+      <actor>Valin Shinyei</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/47/7479864_A6234F5B313E21C7.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E39</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404030000 +0000" stop="20210404031500 +0000" channel="Globo SP HD">
+    <title lang="pt">Noddy no País dos Brinquedos</title>
+    <desc lang="pt">A segunda temporada das aventuras do pequeno menino feito de madeira que vive em Toyland.(n)</desc>
+    <credits>
+      <director>Albert Pereira-Lazaro</director>
+      <actor>Valin Shinyei</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/47/7479864_A6234F5B313E21C7.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E40</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404031500 +0000" stop="20210404033000 +0000" channel="Globo SP HD">
+    <title lang="pt">Noddy no País dos Brinquedos</title>
+    <desc lang="pt">A segunda temporada das aventuras do pequeno menino feito de madeira que vive em Toyland.(n)</desc>
+    <credits>
+      <director>Albert Pereira-Lazaro</director>
+      <actor>Valin Shinyei</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/47/7479864_A6234F5B313E21C7.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E41</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404033000 +0000" stop="20210404040000 +0000" channel="Globo SP HD">
+    <title lang="pt">Vera e o Reino do Arco-íris</title>
+    <desc lang="pt">O destemido guardião de oito anos de idade, True, usa desejos da Árvore dos Desejos para ajudar a proteger os cidadãos da terra colorida do Reino do Arco-Íris.(n)</desc>
+    <credits>
+      <director>Jamie Whitney</director>
+      <actor>Anna Claire Bartlam</actor>
+      <actor>Eric Peterson</actor>
+      <actor>Dante Zee</actor>
+      <actor>Michela Luci</actor>
+      <actor>Jamie Watson</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8140663_6F2213B61DE513E0.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404040000 +0000" stop="20210404040500 +0000" channel="Globo SP HD">
+    <title lang="pt">Baby Riki</title>
+    <desc lang="pt">Os BabyRiki estão tocando com um xilofone e fazendo música. Quando Krashy passa com seus sapatos estridentes, o BabyRiki quer jogar uma caminhada com ele, deixando Rosy para trás.(n)</desc>
+    <credits>
+      <director>Popov Ilya</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6904176_5EAC602BC44191DE.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S2 E33</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404040500 +0000" stop="20210404041000 +0000" channel="Globo SP HD">
+    <title lang="pt">Baby Riki</title>
+    <desc lang="pt">Krashy está levando sorvete para seus amigos, mas ele precisa chegar rapidamente antes que derreta. Depois de colidir com alguns quarteirões, ele precisa da ajuda de Wally e seu guindaste para passar e limpar o caminho.(n)</desc>
+    <credits>
+      <director>Popov Ilya</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6904176_5EAC602BC44191DE.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S2 E34</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404041000 +0000" stop="20210404041500 +0000" channel="Globo SP HD">
+    <title lang="pt">Sunny Bunnies</title>
+    <desc lang="pt">Durante uma visita ao museu, Sunny Bunnies começam a criar suas obras de arte. Talvez um pincel maravilhoso possa torná-los grandes artistas. Eles começam a brincar, mas precisam arrumar tudo no fim.(n)</desc>
+    <credits>
+      <director>Andrew Ledenev</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/18/7180992_D32FD3A344A4C94E.jpg" />
+    <country lang="pt">Bielo-Rússia</country>
+    <episode-num system="onscreen">E20</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404041500 +0000" stop="20210404043000 +0000" channel="Globo SP HD">
+    <title lang="pt">SOS Fada Manu</title>
+    <desc lang="pt">Fada Manu ajuda Serena Sereia a descobrir de onde vem todo lixo que está sujando o mar, enquanto isso João tenta se transformar em um Sereio.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/35/7356874_8F384EB417F68AAB.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404043000 +0000" stop="20210404044500 +0000" channel="Globo SP HD">
+    <title lang="pt">SOS Fada Manu</title>
+    <desc lang="pt">Após se desentender com Manu e Duque, João encontra um novo melhor amigo inusitado: Pinóquio. Enquanto isso a Fada tenta provar que essa nova amizade não é verdadeira.(n)</desc>
+    <credits>
+      <director>Jean Cullen De Moura</director>
+      <director>Jean Mary De Moura</director>
+      <actor>Felipe Volpato</actor>
+      <actor>Marjorie Blaitt</actor>
+      <actor>Tess Amorim</actor>
+      <actor>Hugo Picchi</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/35/7356874_8F384EB417F68AAB.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404044500 +0000" stop="20210404045200 +0000" channel="Globo SP HD">
+    <title lang="pt">As Aventuras de Bob Zoom</title>
+    <desc lang="pt">Vovó Zoom vem para fazer uma visita, mas Bob Zoom está ansioso para a aventura de buscar trevinhos. Ele acaba tentando estar nos dois lugares ao mesmo tempo, o que irá gerar grandes trapalhadas.(n)</desc>
+    <credits>
+      <director>Oswaldo Braz</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6903923_CFCC6C546D437082.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404045200 +0000" stop="20210404050000 +0000" channel="Globo SP HD">
+    <title lang="pt">As Aventuras de Bob Zoom</title>
+    <desc lang="pt">A turma resolve escalar a parede da casa de Hugo, após Bob Zoom ver um trevinho na varanda do segundo andar. Porém, a casa acabou de ser pintada, e a turminha ficará grudada na tinta fresca.(n)</desc>
+    <credits>
+      <director>Oswaldo Braz</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6903923_CFCC6C546D437082.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404050000 +0000" stop="20210404050700 +0000" channel="Globo SP HD">
+    <title lang="pt">As Aventuras de Bob Zoom</title>
+    <desc lang="pt">Uma festa acontece no quintal: o aniversário de Hugo. Mesmo assim, a turminha não se acanha e sai em busca de mais um trevinho.Mas, Bob Zoom, que adora doce, vai dar uma escapadinha para comer o bolo.(n)</desc>
+    <credits>
+      <director>Oswaldo Braz</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6903923_CFCC6C546D437082.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404050700 +0000" stop="20210404051500 +0000" channel="Globo SP HD">
+    <title lang="pt">As Aventuras de Bob Zoom</title>
+    <desc lang="pt">No meio de mais uma busca por trevinhos, eles encontram um passarinho que caiu da árvore. Bob Zoom e a turma, solidários, irão ajudar o filhote a retornar para seu ninho.(n)</desc>
+    <credits>
+      <director>Oswaldo Braz</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6903923_CFCC6C546D437082.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404051500 +0000" stop="20210404051800 +0000" channel="Globo SP HD">
+    <title lang="pt">As Aventuras de Bob Zoom</title>
+    <desc lang="pt">Após Bob Zoom ver um trevinho ao lado de Hugo, a turminha vai construir um espantalho para assustar o garoto. Mas acontece que o monstrinho vai acabar ficando é bem bonitinho.(n)</desc>
+    <credits>
+      <director>Oswaldo Braz</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6903923_CFCC6C546D437082.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404051800 +0000" stop="20210404053000 +0000" channel="Globo SP HD">
+    <title lang="pt">Vera e o Reino do Arco-íris</title>
+    <desc lang="pt">O destemido guardião de oito anos de idade, True, usa desejos da Árvore dos Desejos para ajudar a proteger os cidadãos da terra colorida do Reino do Arco-Íris.(n)</desc>
+    <credits>
+      <actor>James Watson</actor>
+      <actor>Jamie Whitney</actor>
+      <actor>Michela Luci</actor>
+      <actor>Chris Peterson</actor>
+      <actor>Dante Zee</actor>
+      <actor>Anna Claire Bartlam</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8140663_6F2213B61DE513E0.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404053000 +0000" stop="20210404054500 +0000" channel="Globo SP HD">
+    <title lang="pt">Trulli Tales</title>
+    <desc lang="pt">Durante a receita, Stella se recusa a usar pedaços de pão velho e os joga fora. Copperpot, então, aproveita os pedaços jogados fora em seu plano para pegar o Livro Mágico de Receitas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8306374_33177079DBFED008.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404054500 +0000" stop="20210404060000 +0000" channel="Globo SP HD">
+    <title lang="pt">Trulli Tales</title>
+    <desc lang="pt">Zip está atrasado e Ring, Stella e Sun se juntam a uma nova amiga para a competição de omelete. Zip, com ciúmes, decide se unir a um chef desconhecido que, na verdade, é Copperpot disfarçado.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8306374_33177079DBFED008.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404060000 +0000" stop="20210404060500 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E45</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404060500 +0000" stop="20210404061000 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E46</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404061000 +0000" stop="20210404061500 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E47</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404061500 +0000" stop="20210404062000 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E48</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404062000 +0000" stop="20210404062500 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E49</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404062500 +0000" stop="20210404063000 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E50</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404063000 +0000" stop="20210404064500 +0000" channel="Globo SP HD">
+    <title lang="pt">Go Jetters</title>
+    <desc lang="pt">A animação conta as aventuras de quatro heróis corajosos, que viajam ao redor do mundo. A cada episódio, os estudantes da academia Go Jet exploram um monumento icônico, guiados por Ubercorn, um mentor e amigo unicórnio.(n)</desc>
+    <credits>
+      <actor>Akie Kotabe</actor>
+      <actor>Pilar Orti</actor>
+      <actor>John Hasler</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6901087_11164914FB890AC5.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404064500 +0000" stop="20210404070000 +0000" channel="Globo SP HD">
+    <title lang="pt">Go Jetters</title>
+    <desc lang="pt">A animação conta as aventuras de quatro heróis corajosos, que viajam ao redor do mundo. A cada episódio, os estudantes da academia Go Jet exploram um monumento icônico, guiados por Ubercorn, um mentor e amigo unicórnio.(n)</desc>
+    <credits>
+      <actor>Pilar Orti</actor>
+      <actor>Syrus Lowe</actor>
+      <actor>Marc Silk</actor>
+      <actor>Akie Kotabe</actor>
+      <actor>Tommie Earl Jenkins</actor>
+      <actor>John Hasler</actor>
+      <actor>James Sherwood</actor>
+      <actor>NAOMI MCDONALD</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6901087_11164914FB890AC5.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404070000 +0000" stop="20210404070500 +0000" channel="Globo SP HD">
+    <title lang="pt">Mya Go</title>
+    <desc lang="pt">Neva na cidade de Todo Dia e a família Go vai ao parque de trenó. O Papai Go quer quebrar o recorde e ser o mais rápido na descida.(n)</desc>
+    <credits>
+      <director>Alan Foley</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8322066_F25EA532E5E6AFE4.jpg" />
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S1 E61</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404070500 +0000" stop="20210404071000 +0000" channel="Globo SP HD">
+    <title lang="pt">Mya Go</title>
+    <desc lang="pt">Mya Go ajuda a vovó e o vovô a cuidar do jardim. A neta ajuda o vovô Go a cavar um poço.(n)</desc>
+    <credits>
+      <director>Alan Foley</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8322066_F25EA532E5E6AFE4.jpg" />
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S1 E62</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404071000 +0000" stop="20210404071500 +0000" channel="Globo SP HD">
+    <title lang="pt">Mya Go</title>
+    <desc lang="pt">Junto com Zoe, Mya ajuda Billy a terminar as tarefas. O amigo tem um jogo, o que torna tudo ainda mais divertido.(n)</desc>
+    <credits>
+      <director>Alan Foley</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8322066_F25EA532E5E6AFE4.jpg" />
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S1 E63</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404071500 +0000" stop="20210404073000 +0000" channel="Globo SP HD">
+    <title lang="pt">Noddy no País dos Brinquedos</title>
+    <desc lang="pt">A segunda temporada das aventuras do pequeno menino feito de madeira que vive em Toyland.(n)</desc>
+    <credits>
+      <director>Albert Pereira-Lazaro</director>
+      <actor>Valin Shinyei</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/47/7479864_A6234F5B313E21C7.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E38</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404073000 +0000" stop="20210404074500 +0000" channel="Globo SP HD">
+    <title lang="pt">Noddy no País dos Brinquedos</title>
+    <desc lang="pt">A segunda temporada das aventuras do pequeno menino feito de madeira que vive em Toyland.(n)</desc>
+    <credits>
+      <director>Albert Pereira-Lazaro</director>
+      <actor>Valin Shinyei</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/47/7479864_A6234F5B313E21C7.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E39</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404074500 +0000" stop="20210404080000 +0000" channel="Globo SP HD">
+    <title lang="pt">Noddy no País dos Brinquedos</title>
+    <desc lang="pt">A segunda temporada das aventuras do pequeno menino feito de madeira que vive em Toyland.(n)</desc>
+    <credits>
+      <director>Albert Pereira-Lazaro</director>
+      <actor>Valin Shinyei</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/47/7479864_A6234F5B313E21C7.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E40</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404080000 +0000" stop="20210404080500 +0000" channel="Globo SP HD">
+    <title lang="pt">Lucas &amp; Emily</title>
+    <desc lang="pt">Nem sempre é fácil para as crianças de 4 a 6 anos entenderem que quando os pais dizem 'Limpe seu quarto!', 'Vá dormir agora; É hora da soneca! 'ou' Não pular no sofá! '... eles não estão inventando regras arbitrárias e chatas.(n)</desc>
+    <credits>
+      <director>Marc Boréal</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317483_3D34D00ED40CFEAA.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404080500 +0000" stop="20210404081500 +0000" channel="Globo SP HD">
+    <title lang="pt">Lucas &amp; Emily</title>
+    <desc lang="pt">Hoje à noite as crianças querem que Mamey conte uma história assustadora para a hora de dormir. Mas a avó deles não quer: eles são jovens demais para histórias assustadoras.(n)</desc>
+    <credits>
+      <director>Marc Boréal</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317483_3D34D00ED40CFEAA.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404081500 +0000" stop="20210404083000 +0000" channel="Globo SP HD">
+    <title lang="pt">Olívia</title>
+    <desc lang="pt">Olivia é uma porquinha muito criativa e que ama usar sua imaginação. Ela faz tudo com suas melhores amigas, Julian e Francine, e está sempre em busca de diversão.(n)</desc>
+    <credits>
+      <director>Darragh O'Connell</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/92/7921627_24D05E364C8034A3.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404083000 +0000" stop="20210404084500 +0000" channel="Globo SP HD">
+    <title lang="pt">Olívia</title>
+    <desc lang="pt">Olivia é uma porquinha muito criativa e que ama usar sua imaginação. Ela faz tudo com suas melhores amigas, Julian e Francine, e está sempre em busca de diversão.(n)</desc>
+    <credits>
+      <director>Darragh O'Connell</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/92/7921627_24D05E364C8034A3.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404084500 +0000" stop="20210404090000 +0000" channel="Globo SP HD">
+    <title lang="pt">Olívia</title>
+    <desc lang="pt">Olivia é uma porquinha muito criativa e que ama usar sua imaginação. Ela faz tudo com suas melhores amigas, Julian e Francine, e está sempre em busca de diversão.(n)</desc>
+    <credits>
+      <director>Darragh O'Connell</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/92/7921627_24D05E364C8034A3.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404090000 +0000" stop="20210404091500 +0000" channel="Globo SP HD">
+    <title lang="pt">Trulli Tales</title>
+    <desc lang="pt">Em homenagem ao Dia da Maçã, Professor Flores pede para as crianças criarem um projeto relacionado às maçãs. Mas Ring e Sun não conseguem chegar a uma conclusão e só pensam em impor suas ideias.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8306374_33177079DBFED008.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404091500 +0000" stop="20210404093000 +0000" channel="Globo SP HD">
+    <title lang="pt">Trulli Tales</title>
+    <desc lang="pt">É dia do Festival de Limão! As crianças decidem fazer uma dança tradicional para o público, mas Zip não dança muito bem e está com medo de parecer bobo. Copperpot aparece e tenta acabar com a festa.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8306374_33177079DBFED008.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404093000 +0000" stop="20210404094500 +0000" channel="Globo SP HD">
+    <title lang="pt">Trulli Tales</title>
+    <desc lang="pt">Zip está ocupado adicionando adesivos em seu álbum e, quando vê um gato estranho que se parece com Copperpot, decide não interromper sua tarefa. Quando resolve contar aos amigos, já é tarde demais.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8306374_33177079DBFED008.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404094500 +0000" stop="20210404100000 +0000" channel="Globo SP HD">
+    <title lang="pt">Trulli Tales</title>
+    <desc lang="pt">Durante a receita, Stella se recusa a usar pedaços de pão velho e os joga fora. Copperpot, então, aproveita os pedaços jogados fora em seu plano para pegar o Livro Mágico de Receitas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8306374_33177079DBFED008.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404100000 +0000" stop="20210404100500 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E41</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404100500 +0000" stop="20210404101000 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E42</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404101000 +0000" stop="20210404101500 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E43</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404101500 +0000" stop="20210404102000 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E44</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404102000 +0000" stop="20210404102500 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E46</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404102500 +0000" stop="20210404103000 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E47</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404103000 +0000" stop="20210404110000 +0000" channel="Globo SP HD">
+    <title lang="pt">Vera e o Reino do Arco-íris</title>
+    <desc lang="pt">O destemido guardião de oito anos de idade, True, usa desejos da Árvore dos Desejos para ajudar a proteger os cidadãos da terra colorida do Reino do Arco-Íris.(n)</desc>
+    <credits>
+      <director>Jamie Whitney</director>
+      <actor>Anna Claire Bartlam</actor>
+      <actor>Michela Luci</actor>
+      <actor>Eric Peterson</actor>
+      <actor>Dante Zee</actor>
+      <actor>Jamie Watson</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8140663_6F2213B61DE513E0.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404110000 +0000" stop="20210404113000 +0000" channel="Globo SP HD">
+    <title lang="pt">Vera e o Reino do Arco-íris</title>
+    <desc lang="pt">O destemido guardião de oito anos de idade, True, usa desejos da Árvore dos Desejos para ajudar a proteger os cidadãos da terra colorida do Reino do Arco-Íris.(n)</desc>
+    <credits>
+      <actor>James Watson</actor>
+      <actor>Jamie Whitney</actor>
+      <actor>Michela Luci</actor>
+      <actor>Chris Peterson</actor>
+      <actor>Dante Zee</actor>
+      <actor>Anna Claire Bartlam</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8140663_6F2213B61DE513E0.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404113000 +0000" stop="20210404113500 +0000" channel="Globo SP HD">
+    <title lang="pt">Misho &amp; Robin</title>
+    <desc lang="pt">Misho e Robin querem andar de bicicletea com Esquilo, mas o pneu está furado. Esquilo deixa seu novo patinete de lado para ajudar. Quando termina, percebe que ele foi roubado, e então vão procurá-lo.(n)</desc>
+    <credits>
+      <director>Denis Alenti</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6896941_E1D9C50300647CB7.jpg" />
+    <country lang="pt">Croácia</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404113500 +0000" stop="20210404114000 +0000" channel="Globo SP HD">
+    <title lang="pt">Misho &amp; Robin</title>
+    <desc lang="pt">Através de histórias simples e divertidas acompanhamos as aventuras de um esquilo e seu amigo gato.(n)</desc>
+    <credits>
+      <director>Denis Alenti</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6896941_E1D9C50300647CB7.jpg" />
+    <country lang="pt">Croácia</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404114000 +0000" stop="20210404114500 +0000" channel="Globo SP HD">
+    <title lang="pt">Misho &amp; Robin</title>
+    <desc lang="pt">Uma grande corrida de trenó está prestes a começar e Misho e Robin estão competindo com Castor, Coruja e Esquilo. Alguns se enrolaram, outros jogaram sujo, mas Misho e Robin ajudaram.(n)</desc>
+    <credits>
+      <director>Denis Alenti</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6896941_E1D9C50300647CB7.jpg" />
+    <country lang="pt">Croácia</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404114500 +0000" stop="20210404120000 +0000" channel="Globo SP HD">
+    <title lang="pt">Senninha Na Pista Maluca</title>
+    <desc lang="pt">Senninha e seus amigos resolvem fazer um piquenique nas nuvens para se livrarem das formigas. E também fogem das iguarias que Braço Duro prepara, mas, no final, são obrigados a degustá-las.(n)</desc>
+    <credits>
+      <director>Chico Bela</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6915813_22973906A978B0CC.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404120000 +0000" stop="20210404121500 +0000" channel="Globo SP HD">
+    <title lang="pt">Senninha Na Pista Maluca</title>
+    <desc lang="pt">Rebimboca inventa o Pistatruque, uma máquina que cria pistas onde somente Braço Duro vence. O feitiço se vira contra o feiticeiro e um ajudante de trapaças, um mini Braço Duro, aparece.(n)</desc>
+    <credits>
+      <director>Chico Bela</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6915813_22973906A978B0CC.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404121500 +0000" stop="20210404123000 +0000" channel="Globo SP HD">
+    <title lang="pt">Go Jetters</title>
+    <desc lang="pt">A animação conta as aventuras de quatro heróis corajosos, que viajam ao redor do mundo. A cada episódio, os estudantes da academia Go Jet exploram um monumento icônico, guiados por Ubercorn, um mentor e amigo unicórnio.(n)</desc>
+    <credits>
+      <actor>Akie Kotabe</actor>
+      <actor>Pilar Orti</actor>
+      <actor>John Hasler</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6901087_11164914FB890AC5.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404123000 +0000" stop="20210404124500 +0000" channel="Globo SP HD">
+    <title lang="pt">Go Jetters</title>
+    <desc lang="pt">A animação conta as aventuras de quatro heróis corajosos, que viajam ao redor do mundo. A cada episódio, os estudantes da academia Go Jet exploram um monumento icônico, guiados por Ubercorn, um mentor e amigo unicórnio.(n)</desc>
+    <credits>
+      <actor>John Hasler</actor>
+      <actor>Pilar Orti</actor>
+      <actor>Akie Kotabe</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6901087_11164914FB890AC5.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404124500 +0000" stop="20210404125200 +0000" channel="Globo SP HD">
+    <title lang="pt">Pingu na Cidade</title>
+    <desc lang="pt">Pingu e sua família se mudam para a cidade grande, onde o pinguim tenta ajudar seus novos amigos e vizinhos.(n)</desc>
+    <credits>
+      <director>Naomi Iwata</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6931109_2020493D5D66A87F.jpg" />
+    <country lang="pt">Japão</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404125200 +0000" stop="20210404130000 +0000" channel="Globo SP HD">
+    <title lang="pt">Pingu na Cidade</title>
+    <desc lang="pt">Pingu e sua família se mudam para a cidade grande, onde o pinguim tenta ajudar seus novos amigos e vizinhos.(n)</desc>
+    <credits>
+      <director>Naomi Iwata</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6931109_2020493D5D66A87F.jpg" />
+    <country lang="pt">Japão</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404130000 +0000" stop="20210404131500 +0000" channel="Globo SP HD">
+    <title lang="pt">Olívia</title>
+    <desc lang="pt">Olivia é uma porquinha muito criativa e que ama usar sua imaginação. Ela faz tudo com suas melhores amigas, Julian e Francine, e está sempre em busca de diversão.(n)</desc>
+    <credits>
+      <director>Darragh O'Connell</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317498_DA0173113B293808.jpg" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404131500 +0000" stop="20210404132000 +0000" channel="Globo SP HD">
+    <title lang="pt">Olobob Top</title>
+    <desc lang="pt">A série segue um grupo de criaturas criativas chamadas Olobobs. Tib, Lalloo e Bobble vivem em uma grande floresta e se divertem jogando, explorando e resolvendo problemas diários.(n)</desc>
+    <credits>
+      <director>Jen Rennie</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8308577_D2D446A9BC01E4CA.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404132000 +0000" stop="20210404132500 +0000" channel="Globo SP HD">
+    <title lang="pt">Olobob Top</title>
+    <desc lang="pt">A série segue um grupo de criaturas criativas chamadas Olobobs. Tib, Lalloo e Bobble vivem em uma grande floresta e se divertem jogando, explorando e resolvendo problemas diários.(n)</desc>
+    <credits>
+      <director>Jen Rennie</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8308577_D2D446A9BC01E4CA.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404132500 +0000" stop="20210404133000 +0000" channel="Globo SP HD">
+    <title lang="pt">Olobob Top</title>
+    <desc lang="pt">A série segue um grupo de criaturas criativas chamadas Olobobs. Tib, Lalloo e Bobble vivem em uma grande floresta e se divertem jogando, explorando e resolvendo problemas diários.(n)</desc>
+    <credits>
+      <director>Jen Rennie</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8308577_D2D446A9BC01E4CA.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404133000 +0000" stop="20210404133700 +0000" channel="Globo SP HD">
+    <title lang="pt">Senhorita Zazie</title>
+    <desc lang="pt">Um grupo de amigos de 7 anos vivem em uma cidade com praia e se divertem, aprendendo.(n)</desc>
+    <credits>
+      <director>Romain Villemaine</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8326681_FF080D8D9CEB1128.jpg" />
+    <country lang="pt">Cingapura</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404133700 +0000" stop="20210404134500 +0000" channel="Globo SP HD">
+    <title lang="pt">Senhorita Zazie</title>
+    <desc lang="pt">Um grupo de amigos de 7 anos vivem em uma cidade com praia e se divertem, aprendendo.(n)</desc>
+    <credits>
+      <director>Romain Villemaine</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8326681_FF080D8D9CEB1128.jpg" />
+    <country lang="pt">Cingapura</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404134500 +0000" stop="20210404135000 +0000" channel="Globo SP HD">
+    <title lang="pt">Baby Riki</title>
+    <desc lang="pt">Os BabyRiki estão tocando com um xilofone e fazendo música. Quando Krashy passa com seus sapatos estridentes, o BabyRiki quer jogar uma caminhada com ele, deixando Rosy para trás.(n)</desc>
+    <credits>
+      <director>Popov Ilya</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6904176_5EAC602BC44191DE.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S2 E33</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404135000 +0000" stop="20210404135500 +0000" channel="Globo SP HD">
+    <title lang="pt">Baby Riki</title>
+    <desc lang="pt">Krashy está levando sorvete para seus amigos, mas ele precisa chegar rapidamente antes que derreta. Depois de colidir com alguns quarteirões, ele precisa da ajuda de Wally e seu guindaste para passar e limpar o caminho.(n)</desc>
+    <credits>
+      <director>Popov Ilya</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6904176_5EAC602BC44191DE.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S2 E34</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404135500 +0000" stop="20210404140000 +0000" channel="Globo SP HD">
+    <title lang="pt">Sunny Bunnies</title>
+    <desc lang="pt">Agora é hora de descobrir quem é o melhor no salto em altura. Os Sunny Bunnies competem sem regras e a barra vai subindo, mas como eles vão descer.(n)</desc>
+    <credits>
+      <director>Andrew Ledenev</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/18/7180992_D32FD3A344A4C94E.jpg" />
+    <country lang="pt">Bielo-Rússia</country>
+    <episode-num system="onscreen">E21</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404140000 +0000" stop="20210404143000 +0000" channel="Globo SP HD">
+    <title lang="pt">Vera e o Reino do Arco-íris</title>
+    <desc lang="pt">O destemido guardião de oito anos de idade, True, usa desejos da Árvore dos Desejos para ajudar a proteger os cidadãos da terra colorida do Reino do Arco-Íris.(n)</desc>
+    <credits>
+      <director>Jamie Whitney</director>
+      <actor>Anna Claire Bartlam</actor>
+      <actor>Eric Peterson</actor>
+      <actor>Dante Zee</actor>
+      <actor>Michela Luci</actor>
+      <actor>Jamie Watson</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8140663_6F2213B61DE513E0.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404143000 +0000" stop="20210404144500 +0000" channel="Globo SP HD">
+    <title lang="pt">SOS Fada Manu</title>
+    <desc lang="pt">É aniversário de casamento real e o Rei e a Rainha recebem um presente inusitado: uma capa invisível. Será que esse presente é mágico ou tem alguém querendo criar confusão no reino encantado.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/35/7356874_8F384EB417F68AAB.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404144500 +0000" stop="20210404150000 +0000" channel="Globo SP HD">
+    <title lang="pt">SOS Fada Manu</title>
+    <desc lang="pt">Manu quer provar para João que a vida de aprendiz de fada é muito difícil e o desafia a trocar de corpo com ela. Mas a fadinha acaba trocando de corpo com Sofrimento e vai ter um dia de cão.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/35/7356874_8F384EB417F68AAB.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404150000 +0000" stop="20210404150500 +0000" channel="Globo SP HD">
+    <title lang="pt">Mya Go</title>
+    <desc lang="pt">A Mamãe Go vai dar aula de ginástica no parque. Mya quer participar, mas o Papai Go não está tão entusiasmado.(n)</desc>
+    <credits>
+      <director>Alan Foley</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8322066_F25EA532E5E6AFE4.jpg" />
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S1 E70</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404150500 +0000" stop="20210404151000 +0000" channel="Globo SP HD">
+    <title lang="pt">Mya Go</title>
+    <desc lang="pt">Para celebrar o dia da cidade, Mya Go e sua turma fazem uma excursão para o museu. O professor Monta-Ossos vai contar tudo sobre Bonnie Mares, fundadora de Todo Dia.(n)</desc>
+    <credits>
+      <director>Alan Foley</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8322066_F25EA532E5E6AFE4.jpg" />
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S1 E71</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404151000 +0000" stop="20210404151500 +0000" channel="Globo SP HD">
+    <title lang="pt">Mya Go</title>
+    <desc lang="pt">A família Go sai para passear na floresta. Mya e Sophie procuram pelo famoso Pé-grande, mas a única coisa que elas acham é Dada Go.(n)</desc>
+    <credits>
+      <director>Alan Foley</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8322066_F25EA532E5E6AFE4.jpg" />
+    <country lang="pt">Irlanda</country>
+    <episode-num system="onscreen">S1 E72</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404151500 +0000" stop="20210404153000 +0000" channel="Globo SP HD">
+    <title lang="pt">Noddy no País dos Brinquedos</title>
+    <desc lang="pt">A segunda temporada das aventuras do pequeno menino feito de madeira que vive em Toyland.(n)</desc>
+    <credits>
+      <director>Albert Pereira-Lazaro</director>
+      <actor>Valin Shinyei</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/47/7479864_A6234F5B313E21C7.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404153000 +0000" stop="20210404154500 +0000" channel="Globo SP HD">
+    <title lang="pt">Trulli Tales</title>
+    <desc lang="pt">Durante a receita, Stella se recusa a usar pedaços de pão velho e os joga fora. Copperpot, então, aproveita os pedaços jogados fora em seu plano para pegar o Livro Mágico de Receitas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8306374_33177079DBFED008.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404154500 +0000" stop="20210404160000 +0000" channel="Globo SP HD">
+    <title lang="pt">Trulli Tales</title>
+    <desc lang="pt">Zip está atrasado e Ring, Stella e Sun se juntam a uma nova amiga para a competição de omelete. Zip, com ciúmes, decide se unir a um chef desconhecido que, na verdade, é Copperpot disfarçado.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8306374_33177079DBFED008.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404160000 +0000" stop="20210404160500 +0000" channel="Globo SP HD">
+    <title lang="pt">Lucas &amp; Emily</title>
+    <desc lang="pt">Nem sempre é fácil para as crianças de 4 a 6 anos entenderem que quando os pais dizem 'Limpe seu quarto!', 'Vá dormir agora; É hora da soneca! 'ou' Não pular no sofá! '... eles não estão inventando regras arbitrárias e chatas.(n)</desc>
+    <credits>
+      <director>Marc Boréal</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317483_3D34D00ED40CFEAA.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404160500 +0000" stop="20210404161500 +0000" channel="Globo SP HD">
+    <title lang="pt">Lucas &amp; Emily</title>
+    <desc lang="pt">Os pais das crianças têm uma surpresa para eles... sapatos novos! Lucas e Emily estão decepcionados... Eles experimentam seus sapatos novos, mas eles realmente doem.(n)</desc>
+    <credits>
+      <director>Marc Boréal</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317483_3D34D00ED40CFEAA.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404161500 +0000" stop="20210404162500 +0000" channel="Globo SP HD">
+    <title lang="pt">Lucas &amp; Emily</title>
+    <desc lang="pt">Nem sempre é fácil para as crianças de 4 a 6 anos entenderem que quando os pais dizem 'Limpe seu quarto!', 'Vá dormir agora; É hora da soneca! 'ou' Não pular no sofá! '... eles não estão inventando regras arbitrárias e chatas.(n)</desc>
+    <credits>
+      <director>Marc Boréal</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317483_3D34D00ED40CFEAA.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404162500 +0000" stop="20210404163000 +0000" channel="Globo SP HD">
+    <title lang="pt">Clube da Anittinha</title>
+    <desc lang="pt">Após achar um lindo peixinho no lago, e o levar pra casa, Anittinha acaba descobrindo que o bichinho não é exatamente o que ela esperava.(n)</desc>
+    <credits>
+      <actor>Robson Kumode</actor>
+      <actor>Patrícia Pichamone</actor>
+      <actor>Lia Mello</actor>
+      <actor>Caio Guarnieri</actor>
+      <actor>Nestor Chiesse</actor>
+      <actor>Larissa de Macedo Machado</actor>
+      <actor>Tarsila Amorim</actor>
+      <actor>Renner Souza</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935790_8DCE0B39F0A8988A.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404163000 +0000" stop="20210404163500 +0000" channel="Globo SP HD">
+    <title lang="pt">Clube da Anittinha</title>
+    <desc lang="pt">Está uma tempestade terrível lá fora e a Poderosa não para de tremer. Anittinha precisa descobrir porque a amiga está tremendo tanto e dar um jeito de ajudá-la.(n)</desc>
+    <credits>
+      <actor>Lia Mello</actor>
+      <actor>Tarsila Amorim</actor>
+      <actor>Renner Souza</actor>
+      <actor>Nestor Chiesse</actor>
+      <actor>Patrícia Pichamone</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Larissa de Macedo Machado</actor>
+      <actor>Caio Guarnieri</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935790_8DCE0B39F0A8988A.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404163500 +0000" stop="20210404164000 +0000" channel="Globo SP HD">
+    <title lang="pt">Clube da Anittinha</title>
+    <desc lang="pt">Anittinha acorda terrivelmente doente, bem no dia em que combinou de ir no parque com seus amigos. Mas logo descobre que ficar em casa também não é tão ruim assim.(n)</desc>
+    <credits>
+      <actor>Nestor Chiesse</actor>
+      <actor>Caio Guarnieri</actor>
+      <actor>Lia Mello</actor>
+      <actor>Renner Souza</actor>
+      <actor>Tarsila Amorim</actor>
+      <actor>Larissa de Macedo Machado</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Patrícia Pichamone</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935790_8DCE0B39F0A8988A.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404164000 +0000" stop="20210404164500 +0000" channel="Globo SP HD">
+    <title lang="pt">Clube da Anittinha</title>
+    <desc lang="pt">Estão todos reunidos na sala, preparados para ver um filminho, quando a luz acaba. Mas, para acabar com o tédio, a turma resolve fazer seu próprio filme.(n)</desc>
+    <credits>
+      <actor>Lia Mello</actor>
+      <actor>Patrícia Pichamone</actor>
+      <actor>Tarsila Amorim</actor>
+      <actor>Larissa de Macedo Machado</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Caio Guarnieri</actor>
+      <actor>Renner Souza</actor>
+      <actor>Nestor Chiesse</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935790_8DCE0B39F0A8988A.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404164500 +0000" stop="20210404165000 +0000" channel="Globo SP HD">
+    <title lang="pt">Clube da Anittinha</title>
+    <desc lang="pt">Anittinha acidentalmente quebra um troféu de Gatrick, mas ao invés de contar a verdade ela acaba se enrolando na própria mentira.(n)</desc>
+    <credits>
+      <actor>Larissa de Macedo Machado</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Tarsila Amorim</actor>
+      <actor>Nestor Chiesse</actor>
+      <actor>Renner Souza</actor>
+      <actor>Patrícia Pichamone</actor>
+      <actor>Caio Guarnieri</actor>
+      <actor>Lia Mello</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935790_8DCE0B39F0A8988A.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404165000 +0000" stop="20210404170000 +0000" channel="Globo SP HD">
+    <title lang="pt">Clube da Anittinha</title>
+    <desc lang="pt">Após competirem quem monta uma réplica da Poderosa mais parecida, os amigos descobrem que sumiram peças da Poderosa de verdade. Agora eles precisam achar essas peças para ela voltar a funcionar.(n)</desc>
+    <credits>
+      <actor>Tarsila Amorim</actor>
+      <actor>Patrícia Pichamone</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Lia Mello</actor>
+      <actor>Caio Guarnieri</actor>
+      <actor>Nestor Chiesse</actor>
+      <actor>Larissa de Macedo Machado</actor>
+      <actor>Renner Souza</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935790_8DCE0B39F0A8988A.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404170000 +0000" stop="20210404170500 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E48</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404170500 +0000" stop="20210404171000 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E49</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404171000 +0000" stop="20210404171500 +0000" channel="Globo SP HD">
+    <title lang="pt">Tina &amp; Tony</title>
+    <desc lang="pt">Cookie Village é uma terra cheia de sonhos e aventuras coloridas. Aqui, Tina a elefanta e Tony o hipopótamo, tocam e aprendem com seus amigos incríveis: coelhos curiosos, ursos esportivos e raposas espertas.(n)</desc>
+    <credits>
+      <director>Andrew Bahurin</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317497_644991A3D714F127.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S1 E50</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404171500 +0000" stop="20210404173000 +0000" channel="Globo SP HD">
+    <title lang="pt">Olívia</title>
+    <desc lang="pt">Olivia é uma porquinha muito criativa e que ama usar sua imaginação. Ela faz tudo com suas melhores amigas, Julian e Francine, e está sempre em busca de diversão.(n)</desc>
+    <credits>
+      <director>Darragh O'Connell</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/92/7921627_24D05E364C8034A3.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404173000 +0000" stop="20210404173500 +0000" channel="Globo SP HD">
+    <title lang="pt">Baby Riki</title>
+    <desc lang="pt">Krashy e Pandy estão fingindo ser alpinistas. Mas quando querem ir de uma montanha para outra, precisam de uma ponte.(n)</desc>
+    <credits>
+      <director>Popov Ilya</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6904176_5EAC602BC44191DE.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S2 E35</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404173500 +0000" stop="20210404174000 +0000" channel="Globo SP HD">
+    <title lang="pt">Baby Riki</title>
+    <desc lang="pt">Os BabyRiki estão brincando com a nova bola de Krashy. Mas a queda continua no chão duro. Eles tentam brincar em um travesseiro, mas é muito macio.(n)</desc>
+    <credits>
+      <director>Popov Ilya</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6904176_5EAC602BC44191DE.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S2 E36</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404174000 +0000" stop="20210404174500 +0000" channel="Globo SP HD">
+    <title lang="pt">Baby Riki</title>
+    <desc lang="pt">Chichi fez algumas asas de papel e quer ser piloto. Mas ele não pode voar de verdade com asas de papel. Felizmente, seus amigos estão lá para ajudar.(n)</desc>
+    <credits>
+      <director>Popov Ilya</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6904176_5EAC602BC44191DE.jpg" />
+    <country lang="pt">Rússia</country>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404174500 +0000" stop="20210404175000 +0000" channel="Globo SP HD">
+    <title lang="pt">Pikkuli</title>
+    <desc lang="pt">Os filhos da mamãe e do papai pássaro chocam com facilidade, mas o mais novo precisa de ajuda. Pikkuli quebra a casca do ovo, mas tem medo. Será que ele vai sair do ninho.(n)</desc>
+    <credits>
+      <director>Metsämarja Aittokoski</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6907929_6764665C5E326AD0.jpg" />
+    <country lang="pt">Finlândia</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404175000 +0000" stop="20210404175500 +0000" channel="Globo SP HD">
+    <title lang="pt">Pikkuli</title>
+    <desc lang="pt">Papai ensina os filhotes a voar. Seus irmãos aprendem rápido, mas Pikkuli está com medo. Desapontado, ele sai pela floresta em direção a um lago. Quem ele vai encontrar lá.(n)</desc>
+    <credits>
+      <director>Metsämarja Aittokoski</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6907929_6764665C5E326AD0.jpg" />
+    <country lang="pt">Finlândia</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404175500 +0000" stop="20210404180000 +0000" channel="Globo SP HD">
+    <title lang="pt">Pikkuli</title>
+    <desc lang="pt">Pikkuli quer um companheiro para brincar, mas todos estão ocupados. Na lagoa, ele encontra Honkkeli, mas o pássaro da costa está perto de se afogar. Pikkuli poderá ajudar o amigo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6907929_6764665C5E326AD0.jpg" />
+    <country lang="pt">Finlândia</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404180000 +0000" stop="20210404180700 +0000" channel="Globo SP HD">
+    <title lang="pt">Senhorita Zazie</title>
+    <desc lang="pt">Um grupo de amigos de 7 anos vivem em uma cidade com praia e se divertem, aprendendo.(n)</desc>
+    <credits>
+      <director>Romain Villemaine</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8326681_FF080D8D9CEB1128.jpg" />
+    <country lang="pt">Cingapura</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404180700 +0000" stop="20210404181500 +0000" channel="Globo SP HD">
+    <title lang="pt">Senhorita Zazie</title>
+    <desc lang="pt">Um grupo de amigos de 7 anos vivem em uma cidade com praia e se divertem, aprendendo.(n)</desc>
+    <credits>
+      <director>Romain Villemaine</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8326681_FF080D8D9CEB1128.jpg" />
+    <country lang="pt">Cingapura</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404181500 +0000" stop="20210404182000 +0000" channel="Globo SP HD">
+    <title lang="pt">Misho &amp; Robin</title>
+    <desc lang="pt">Misho e Robin querem andar de bicicletea com Esquilo, mas o pneu está furado. Esquilo deixa seu novo patinete de lado para ajudar. Quando termina, percebe que ele foi roubado, e então vão procurá-lo.(n)</desc>
+    <credits>
+      <director>Denis Alenti</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6896941_E1D9C50300647CB7.jpg" />
+    <country lang="pt">Croácia</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404182000 +0000" stop="20210404183000 +0000" channel="Globo SP HD">
+    <title lang="pt">Misho &amp; Robin</title>
+    <desc lang="pt">Uma grande corrida de trenó está prestes a começar e Misho e Robin estão competindo com Castor, Coruja e Esquilo. Alguns se enrolaram, outros jogaram sujo, mas Misho e Robin ajudaram.(n)</desc>
+    <credits>
+      <director>Denis Alenti</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6896941_E1D9C50300647CB7.jpg" />
+    <country lang="pt">Croácia</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404183000 +0000" stop="20210404190000 +0000" channel="Globo SP HD">
+    <title lang="pt">Vera e o Reino do Arco-íris</title>
+    <desc lang="pt">O destemido guardião de oito anos de idade, True, usa desejos da Árvore dos Desejos para ajudar a proteger os cidadãos da terra colorida do Reino do Arco-Íris.(n)</desc>
+    <credits>
+      <actor>James Watson</actor>
+      <actor>Jamie Whitney</actor>
+      <actor>Michela Luci</actor>
+      <actor>Chris Peterson</actor>
+      <actor>Dante Zee</actor>
+      <actor>Anna Claire Bartlam</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8140663_6F2213B61DE513E0.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404190000 +0000" stop="20210404191500 +0000" channel="Globo SP HD">
+    <title lang="pt">Go Jetters</title>
+    <desc lang="pt">A animação conta as aventuras de quatro heróis corajosos, que viajam ao redor do mundo. A cada episódio, os estudantes da academia Go Jet exploram um monumento icônico, guiados por Ubercorn, um mentor e amigo unicórnio.(n)</desc>
+    <credits>
+      <actor>Akie Kotabe</actor>
+      <actor>Pilar Orti</actor>
+      <actor>John Hasler</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6901087_11164914FB890AC5.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404191500 +0000" stop="20210404193000 +0000" channel="Globo SP HD">
+    <title lang="pt">Go Jetters</title>
+    <desc lang="pt">A animação conta as aventuras de quatro heróis corajosos, que viajam ao redor do mundo. A cada episódio, os estudantes da academia Go Jet exploram um monumento icônico, guiados por Ubercorn, um mentor e amigo unicórnio.(n)</desc>
+    <credits>
+      <actor>John Hasler</actor>
+      <actor>Pilar Orti</actor>
+      <actor>Akie Kotabe</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6901087_11164914FB890AC5.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404193000 +0000" stop="20210404194500 +0000" channel="Globo SP HD">
+    <title lang="pt">Go Jetters</title>
+    <desc lang="pt">A animação conta as aventuras de quatro heróis corajosos, que viajam ao redor do mundo. A cada episódio, os estudantes da academia Go Jet exploram um monumento icônico, guiados por Ubercorn, um mentor e amigo unicórnio.(n)</desc>
+    <credits>
+      <actor>Pilar Orti</actor>
+      <actor>Syrus Lowe</actor>
+      <actor>Marc Silk</actor>
+      <actor>Akie Kotabe</actor>
+      <actor>Tommie Earl Jenkins</actor>
+      <actor>John Hasler</actor>
+      <actor>James Sherwood</actor>
+      <actor>NAOMI MCDONALD</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6901087_11164914FB890AC5.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404194500 +0000" stop="20210404200000 +0000" channel="Globo SP HD">
+    <title lang="pt">Go Jetters</title>
+    <desc lang="pt">A animação conta as aventuras de quatro heróis corajosos, que viajam ao redor do mundo. A cada episódio, os estudantes da academia Go Jet exploram um monumento icônico, guiados por Ubercorn, um mentor e amigo unicórnio.(n)</desc>
+    <credits>
+      <actor>NAOMI MCDONALD</actor>
+      <actor>James Sherwood</actor>
+      <actor>Pilar Orti</actor>
+      <actor>Marc Silk</actor>
+      <actor>Akie Kotabe</actor>
+      <actor>Syrus Lowe</actor>
+      <actor>Tommie Earl Jenkins</actor>
+      <actor>John Hasler</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6901087_11164914FB890AC5.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E34</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404200000 +0000" stop="20210404200500 +0000" channel="Globo SP HD">
+    <title lang="pt">Olobob Top</title>
+    <desc lang="pt">A série segue um grupo de criaturas criativas chamadas Olobobs. Tib, Lalloo e Bobble vivem em uma grande floresta e se divertem jogando, explorando e resolvendo problemas diários.(n)</desc>
+    <credits>
+      <director>Jen Rennie</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8308577_D2D446A9BC01E4CA.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404200500 +0000" stop="20210404201000 +0000" channel="Globo SP HD">
+    <title lang="pt">Olobob Top</title>
+    <desc lang="pt">A série segue um grupo de criaturas criativas chamadas Olobobs. Tib, Lalloo e Bobble vivem em uma grande floresta e se divertem jogando, explorando e resolvendo problemas diários.(n)</desc>
+    <credits>
+      <director>Jen Rennie</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8308577_D2D446A9BC01E4CA.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404201000 +0000" stop="20210404201500 +0000" channel="Globo SP HD">
+    <title lang="pt">Olobob Top</title>
+    <desc lang="pt">A série segue um grupo de criaturas criativas chamadas Olobobs. Tib, Lalloo e Bobble vivem em uma grande floresta e se divertem jogando, explorando e resolvendo problemas diários.(n)</desc>
+    <credits>
+      <director>Jen Rennie</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8308577_D2D446A9BC01E4CA.jpg" />
+    <country lang="pt">Reino Unido</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404201500 +0000" stop="20210404202200 +0000" channel="Globo SP HD">
+    <title lang="pt">As Aventuras de Bob Zoom</title>
+    <desc lang="pt">Após Bob Zoom ver um trevinho ao lado de Hugo, a turminha vai construir um espantalho para assustar o garoto. Mas acontece que o monstrinho vai acabar ficando é bem bonitinho.(n)</desc>
+    <credits>
+      <director>Oswaldo Braz</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6903923_CFCC6C546D437082.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404202200 +0000" stop="20210404203000 +0000" channel="Globo SP HD">
+    <title lang="pt">As Aventuras de Bob Zoom</title>
+    <desc lang="pt">Vovó Zoom vem para fazer uma visita, mas Bob Zoom está ansioso para a aventura de buscar trevinhos. Ele acaba tentando estar nos dois lugares ao mesmo tempo, o que irá gerar grandes trapalhadas.(n)</desc>
+    <credits>
+      <director>Oswaldo Braz</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6903923_CFCC6C546D437082.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404203000 +0000" stop="20210404204500 +0000" channel="Globo SP HD">
+    <title lang="pt">Noddy no País dos Brinquedos</title>
+    <desc lang="pt">A segunda temporada das aventuras do pequeno menino feito de madeira que vive em Toyland.(n)</desc>
+    <credits>
+      <director>Albert Pereira-Lazaro</director>
+      <actor>Valin Shinyei</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/47/7479864_A6234F5B313E21C7.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E38</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404204500 +0000" stop="20210404210000 +0000" channel="Globo SP HD">
+    <title lang="pt">Noddy no País dos Brinquedos</title>
+    <desc lang="pt">A segunda temporada das aventuras do pequeno menino feito de madeira que vive em Toyland.(n)</desc>
+    <credits>
+      <director>Albert Pereira-Lazaro</director>
+      <actor>Valin Shinyei</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/47/7479864_A6234F5B313E21C7.jpg" />
+    <country lang="pt">França</country>
+    <episode-num system="onscreen">S2 E39</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404210000 +0000" stop="20210404211500 +0000" channel="Globo SP HD">
+    <title lang="pt">SOS Fada Manu</title>
+    <desc lang="pt">Após se desentender com Manu e Duque, João encontra um novo melhor amigo inusitado: Pinóquio. Enquanto isso a Fada tenta provar que essa nova amizade não é verdadeira.(n)</desc>
+    <credits>
+      <director>Jean Cullen De Moura</director>
+      <director>Jean Mary De Moura</director>
+      <actor>Felipe Volpato</actor>
+      <actor>Marjorie Blaitt</actor>
+      <actor>Tess Amorim</actor>
+      <actor>Hugo Picchi</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/35/7356874_8F384EB417F68AAB.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404211500 +0000" stop="20210404212500 +0000" channel="Globo SP HD">
+    <title lang="pt">SOS Fada Manu</title>
+    <desc lang="pt">Fada Manu ajuda Serena Sereia a descobrir de onde vem todo lixo que está sujando o mar, enquanto isso João tenta se transformar em um Sereio.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/35/7356874_8F384EB417F68AAB.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404212500 +0000" stop="20210404213000 +0000" channel="Globo SP HD">
+    <title lang="pt">Clube da Anittinha</title>
+    <desc lang="pt">Rositcha diz que Anittinha está velha demais para sua bicicleta de rodinhas, porém Anittinha confunde tudo, e acaba achando que já é adulta e não tem mais tempo para coisas de criança.(n)</desc>
+    <credits>
+      <actor>Nestor Chiesse</actor>
+      <actor>Tarsila Amorim</actor>
+      <actor>Larissa de Macedo Machado</actor>
+      <actor>Robson Kumode</actor>
+      <actor>Renner Souza</actor>
+      <actor>Lia Mello</actor>
+      <actor>Caio Guarnieri</actor>
+      <actor>Patrícia Pichamone</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935790_8DCE0B39F0A8988A.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404213000 +0000" stop="20210404214500 +0000" channel="Globo SP HD">
+    <title lang="pt">Trulli Tales</title>
+    <desc lang="pt">Em homenagem ao Dia da Maçã, Professor Flores pede para as crianças criarem um projeto relacionado às maçãs. Mas Ring e Sun não conseguem chegar a uma conclusão e só pensam em impor suas ideias.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8306374_33177079DBFED008.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404214500 +0000" stop="20210404220000 +0000" channel="Globo SP HD">
+    <title lang="pt">Trulli Tales</title>
+    <desc lang="pt">É dia do Festival de Limão! As crianças decidem fazer uma dança tradicional para o público, mas Zip não dança muito bem e está com medo de parecer bobo. Copperpot aparece e tenta acabar com a festa.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/30/8306374_33177079DBFED008.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404220000 +0000" stop="20210404223000 +0000" channel="Globo SP HD">
+    <title lang="pt">Vera e o Reino do Arco-íris</title>
+    <desc lang="pt">O destemido guardião de oito anos de idade, True, usa desejos da Árvore dos Desejos para ajudar a proteger os cidadãos da terra colorida do Reino do Arco-Íris.(n)</desc>
+    <credits>
+      <actor>James Watson</actor>
+      <actor>Michela Luci</actor>
+      <actor>Dante Zee</actor>
+      <actor>Chris Peterson</actor>
+      <actor>Jamie Whitney</actor>
+      <actor>Anna Claire Bartlam</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8140663_6F2213B61DE513E0.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Canadá</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404223000 +0000" stop="20210404224500 +0000" channel="Globo SP HD">
+    <title lang="pt">Olívia</title>
+    <desc lang="pt">Olivia é uma porquinha muito criativa e que ama usar sua imaginação. Ela faz tudo com suas melhores amigas, Julian e Francine, e está sempre em busca de diversão.(n)</desc>
+    <credits>
+      <director>Darragh O'Connell</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/31/8317498_DA0173113B293808.jpg" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404224500 +0000" stop="20210404225200 +0000" channel="Globo SP HD">
+    <title lang="pt">Senhorita Zazie</title>
+    <desc lang="pt">Um grupo de amigos de 7 anos vivem em uma cidade com praia e se divertem, aprendendo.(n)</desc>
+    <credits>
+      <director>Romain Villemaine</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8326681_FF080D8D9CEB1128.jpg" />
+    <country lang="pt">Cingapura</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404225200 +0000" stop="20210404230000 +0000" channel="Globo SP HD">
+    <title lang="pt">Senhorita Zazie</title>
+    <desc lang="pt">Um grupo de amigos de 7 anos vivem em uma cidade com praia e se divertem, aprendendo.(n)</desc>
+    <credits>
+      <director>Romain Villemaine</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/32/8326681_FF080D8D9CEB1128.jpg" />
+    <country lang="pt">Cingapura</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20210404230000 +0000" stop="20210404231500 +0000" channel="Globo SP HD">
+    <title lang="pt">Senninha Na Pista Maluca</title>
+    <desc lang="pt">Becão quer jogar o game Monster of The Race, versão "dog", na Pista Maluca. Ao entrar na pista, todos se transformam em gatos.(n)</desc>
+    <credits>
+      <director>Chico Bela</director>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6915813_22973906A978B0CC.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+</tv>
